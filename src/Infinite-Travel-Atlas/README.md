@@ -1,6 +1,6 @@
-# Web World Model
+# Infinite Travel Atlas
 
-Web World Model is an infinite travel atlas: a cursor-reactive React front end sits on top of a TypeScript + Express API that orchestrates OpenRouter for palettes, itineraries, travel plans, and chat. Everything runs locally with JSON storage—no database required.
+Infinite travel atlas: a cursor-reactive React front end sits on top of a TypeScript + Express API that orchestrates OpenRouter for palettes, itineraries, travel plans, and chat.
 
 ## What ships
 - Atlas-first UI (Vite + React) with Discover, Planner, and Destination Guide routes powered by the world dataset.
