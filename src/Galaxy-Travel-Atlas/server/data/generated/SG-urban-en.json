@@ -1,0 +1,109 @@
+{
+  "data": {
+    "destination": {
+      "name": "Singapore",
+      "iso2": "SG",
+      "theme": "urban"
+    },
+    "overview": "Singapore is a multi-neighborhood sprint—plan museum slots early, ride transit passes hard, and chase late-night kitchens for authentic bites.",
+    "top_sights": [
+      {
+        "title": "Morning market walk",
+        "why_go": "Street food plus conversations with producers before crowds swell.",
+        "best_time": "07:00–09:00"
+      },
+      {
+        "title": "Singapore design district crawl",
+        "why_go": "Galleries, indie boutiques, and architecture tours in one walkable grid.",
+        "best_time": "Weekdays after 11:00"
+      },
+      {
+        "title": "Skyline rooftop circuit",
+        "why_go": "Golden hour cocktails with citywide views and wind-down playlists.",
+        "best_time": "17:00–20:00"
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "stops": [
+          "Espresso + pastry in heritage cafe",
+          "Museum block with timed entry",
+          "Artisanal lunch counters",
+          "Train to emerging neighborhood",
+          "Speakeasy or jazz bar nightcap"
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights",
+        "stops": [
+          "Transit-based street art hunt",
+          "Bike lane tour of riverfront",
+          "Cooking class on local staples",
+          "Tech hub visit for coworking",
+          "Day trip to satellite town"
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Night market skewers",
+        "where_to_try": "Laneway hawker stalls"
+      },
+      {
+        "dish": "Modern bistro tasting",
+        "where_to_try": "Warehouse district"
+      },
+      {
+        "dish": "Third-wave coffee flight",
+        "where_to_try": "Creative cluster roasters"
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Peak events",
+        "weather": "Warm, humid",
+        "pros": "Festivals and late-night transit",
+        "cons": "Hotel rates spike"
+      },
+      {
+        "season": "Cool months",
+        "weather": "Crisp mornings",
+        "pros": "Ideal for museum marathons",
+        "cons": "Some rooftop bars close"
+      },
+      {
+        "season": "Rainy weeks",
+        "weather": "Short storms",
+        "pros": "Smaller queues and discounts",
+        "cons": "Flood-prone streets—plan indoor blocks"
+      }
+    ],
+    "local_tips": [
+      "Load a day or weekly transit pass; tap-ins unlock metro + buses + ferries.",
+      "Reserve sought-after museums with timed tickets to skip two-hour queues.",
+      "Review SG entry rules; proof of onward travel and accommodation is often checked."
+    ],
+    "safety": [
+      "Use official taxis or registered ride-hailing late at night.",
+      "Keep valuables front-facing on transit; rush hours are pickpocket prime.",
+      "Stick to lit streets after midnight and note last-train schedules."
+    ],
+    "budget": {
+      "shoestring": 80,
+      "midrange": 220,
+      "luxury": 500,
+      "currency": "USD"
+    },
+    "transport": {
+      "from_airport": "Airport express trains beat traffic; buy tickets from kiosks in arrivals.",
+      "getting_around": "Metro + tram network hits all major boroughs; micromobility handles final mile.",
+      "passes": "City passes bundle museums with unlimited transit for 48–120 hours."
+    },
+    "hidden_gems": [
+      "Rooftop community garden cinema",
+      "Micro gallery inside retro station"
+    ]
+  },
+  "timestamp": 1763087171956
+}

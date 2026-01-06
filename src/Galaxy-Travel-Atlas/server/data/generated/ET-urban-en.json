@@ -1,0 +1,137 @@
+{
+  "data": {
+    "destination": {
+      "name": "Harar Jugol, the Fortified Historic Town",
+      "iso2": "ET",
+      "theme": "urban"
+    },
+    "overview": "Welcome to Harar Jugol, a UNESCO World Heritage site and one of Islam's holiest cities. Located in eastern Ethiopia, this fortified historic town is a captivating maze of 368 narrow alleyways packed into just one square kilometer. Known for its unique blend of African and Islamic traditions, Harar boasts vibrant markets, colorful traditional homes with exceptional interior design, and a legendary nightly ritual of feeding wild hyenas. The city's living history is palpable, offering a glimpse into a culture that has thrived for centuries within its ancient walls. It's an unforgettable destination for those seeking to step back in time and experience a truly distinct urban environment.",
+    "top_sights": [
+      {
+        "title": "The Jugol (Old City Walls)",
+        "why_go": "Wandering through the labyrinthine alleys of the old walled city is the quintessential Harari experience. The walls, built between the 13th and 16th centuries, have five historic gates and are the heart of the city's identity.",
+        "best_time": "Early morning or late afternoon when the light is soft and the city is waking up or winding down."
+      },
+      {
+        "title": "Hyena Feeding Ritual",
+        "why_go": "Witness a tradition that dates back generations. Each night, designated 'hyena men' call out to the local hyenas and feed them by hand, sometimes holding the meat in their own mouths. It's a unique and thrilling spectacle.",
+        "best_time": "Just after sunset, typically around 7:00 PM."
+      },
+      {
+        "title": "Harari Traditional Houses",
+        "why_go": "Step inside a traditional Harari home, known as 'Gey gar', to admire their stunning and symbolic interior decorations. Many have been converted into small museums or guesthouses, offering an intimate look at local life.",
+        "best_time": "Daytime, as part of a guided walking tour."
+      },
+      {
+        "title": "Arthur Rimbaud Museum",
+        "why_go": "Housed in a beautiful old Indian merchant's house, this museum is dedicated to the French poet Arthur Rimbaud, who lived in Harar as a coffee and arms trader. The building and its photo collection are fascinating.",
+        "best_time": "Morning or afternoon, to avoid the midday heat."
+      },
+      {
+        "title": "Gidir Magala (Grand Market)",
+        "why_go": "Immerse yourself in the sensory overload of Harar's main market. Here, you'll find everything from fresh produce and spices to clothing and the stimulating leaf 'khat', a major part of the local economy and culture.",
+        "best_time": "Mid-morning when the market is at its busiest."
+      }
+    ],
+    "itineraries": [
+      {
+        "name": "Perfect 24 Hours",
+        "stops": [
+          "Morning coffee at a local 'makina' coffee shop and a 'fetira' for breakfast.",
+          "Get lost in the alleys of the Jugol with a local guide.",
+          "Visit the Arthur Rimbaud Museum and a traditional Harari house.",
+          "Chew some 'khat' with locals in the afternoon for a cultural experience.",
+          "Browse the Gidir Magala market.",
+          "Witness the spectacular hyena feeding ritual at dusk.",
+          "Dinner at a traditional guesthouse."
+        ]
+      },
+      {
+        "name": "2–3 Day Highlights",
+        "stops": [
+          "Day 1: Follow the 'Perfect 24 Hours' itinerary.",
+          "Day 2: Revisit the Jugol at your own pace, focusing on photography.",
+          "Day 2: Explore the Christian market and the 'Smugglers Market' outside the walls.",
+          "Day 2: Visit the tomb of Sheikh Abadir, the city's legendary founder.",
+          "Day 3: Take a day trip to the ancient rock paintings at Babile, or visit the Valley of Marvels with its unique rock formations.",
+          "Day 3: Enjoy a final Harari coffee ceremony and shop for local crafts like basketry."
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Harari Coffee",
+        "where_to_try": "Authentic local coffee shops ('makinas') throughout the city. The traditional ceremony is often offered at guesthouses."
+      },
+      {
+        "dish": "Fetira",
+        "where_to_try": "A flaky, fried bread often served for breakfast with honey or scrambled eggs. Find it at small cafes and street stalls, especially in the morning."
+      },
+      {
+        "dish": "Shero Wat",
+        "where_to_try": "This classic Ethiopian chickpea stew is a staple. Enjoy it with injera at any of the traditional restaurants within the Jugol, such as Hirbe Caffee and Restaurant."
+      },
+      {
+        "dish": "Camel Meat",
+        "where_to_try": "A regional delicacy, often served grilled ('tibbs') or in a stew. Ask a trusted local guide for a recommendation for a clean and popular spot."
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Dry Season",
+        "weather": "October to February. Sunny, dry, and pleasant with cooler nights.",
+        "pros": "Ideal weather for exploring on foot. Clear skies for photography.",
+        "cons": "Can be cooler in the evenings; peak tourist season."
+      },
+      {
+        "season": "Short Rains",
+        "weather": "March to May. Occasional short showers, generally warm.",
+        "pros": "Greener landscapes and fewer crowds than the main dry season.",
+        "cons": "Rain can be unpredictable."
+      },
+      {
+        "season": "Long Rains",
+        "weather": "June to September. Heavier, more consistent rainfall, particularly in July and August.",
+        "pros": "Lush, vibrant scenery and the fewest tourists.",
+        "cons": "Rain can make alleys muddy and travel more challenging."
+      }
+    ],
+    "local_tips": [
+      "Most nationalities need a visa for Ethiopia. Apply for an e-Visa in advance via the official government website to ensure a smooth arrival.",
+      "Hiring a local guide is highly recommended. The Jugol is a true maze, and a guide will not only help you navigate but also explain the rich history and culture.",
+      "Dress modestly out of respect for the conservative local culture. Women should consider carrying a scarf to cover their head when entering mosques or religious sites.",
+      "Bargaining is expected in markets. Always do so with a smile and a sense of humor.",
+      "Carry small denominations of Ethiopian Birr (ETB). ATMs can be unreliable and credit cards are rarely accepted outside of major hotels in bigger cities.",
+      "The chewing of 'khat' is a major social ritual for men in the afternoon. Be respectful of this cultural practice."
+    ],
+    "safety": [
+      "Most visits to Harar are trouble-free, but be mindful of your belongings in crowded markets to avoid pickpocketing.",
+      "Use a registered and recommended guide, especially for the evening hyena feeding.",
+      "Only drink bottled or properly filtered water.",
+      "Check your government's travel advisories for the latest information on the surrounding Somali Region before your trip, as conditions can change.",
+      "Be cautious with street food; choose vendors that are busy and appear clean."
+    ],
+    "budget": {
+      "shoestring": "Under $25 USD",
+      "midrange": "$30 - $70 USD",
+      "luxury": "Over $80 USD",
+      "currency": "Ethiopian Birr (ETB)"
+    },
+    "transport": {
+      "from_airport": "The nearest airport is in Dire Dawa (DIR), about an hour away. From Dire Dawa, you can take a shared minibus or hire a private car to Harar. The drive itself is scenic.",
+      "getting_around": "The historic quarter (Jugol) is best explored on foot. For destinations outside the walls, blue 'bajajs' (auto-rickshaws) are the most common and affordable mode of transport.",
+      "passes": "There are no transport passes available or needed. Fares for bajajs should be negotiated before starting your journey."
+    },
+    "hidden_gems": [
+      {
+        "title": "Guesthouse Courtyards",
+        "description": "Beyond just a place to sleep, the inner courtyards of traditional Harari guesthouses are oases of calm. They are beautifully decorated and offer a peaceful spot for a coffee and a glimpse into domestic life."
+      },
+      {
+        "title": "Bookbinding & Quranic Art Workshops",
+        "description": "Tucked away in quiet alleys, you may find small workshops where artisans practice the ancient craft of religious bookbinding and illumination. It is a quiet, fascinating local art to observe if you can find a master at work."
+      }
+    ]
+  },
+  "timestamp": 1763108238807
+}

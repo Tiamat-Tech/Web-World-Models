@@ -1,0 +1,109 @@
+{
+  "data": {
+    "destination": {
+      "name": "Finland Lapland",
+      "iso2": "FI",
+      "theme": "forest"
+    },
+    "overview": "Finland Lapland is all about canopy layers, respectful wildlife watching, and trail pacing. Expect misty mornings and plan for leeches, drizzle, and mossy boardwalks.",
+    "top_sights": [
+      {
+        "title": "Canopy suspension circuit",
+        "why_go": "Rangers brief visitors on bird calls and primate etiquette before the walk.",
+        "best_time": "Early morning before cicadas peak"
+      },
+      {
+        "title": "Finland Lapland waterfall amphitheater",
+        "why_go": "Short hike with spray-cooled viewpoints and natural pools.",
+        "best_time": "Midday when light hits the falls"
+      },
+      {
+        "title": "Night walk for bioluminescence",
+        "why_go": "Guides teach low-light etiquette and identify frogs without flashlights.",
+        "best_time": "20:00–22:00 after rainfall"
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "stops": [
+          "Birdsong coffee on lodge deck",
+          "Guided canopy walk",
+          "River swim and packed lunch",
+          "Village homestay craft workshop",
+          "Nighttime frog spotting"
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights",
+        "stops": [
+          "Loop trail to remote research station",
+          "Canoe downstream with local tracker",
+          "Forest-to-table cooking demo",
+          "Reforestation volunteer block",
+          "Sunrise tower climb"
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Herb-stuffed river fish",
+        "where_to_try": "Community-run eco lodges"
+      },
+      {
+        "dish": "Cassava leaf stew",
+        "where_to_try": "Trailhead kitchens"
+      },
+      {
+        "dish": "Wild berry pastries",
+        "where_to_try": "Mountain tea houses"
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Dry window",
+        "weather": "Cool nights, manageable mud",
+        "pros": "Best for long treks and wildlife",
+        "cons": "Popular lodges book out"
+      },
+      {
+        "season": "Rains",
+        "weather": "Heavy showers, swollen rivers",
+        "pros": "Waterfalls thunder and crowds thin",
+        "cons": "Leeches and trail closures"
+      },
+      {
+        "season": "Transition",
+        "weather": "Patchy showers, humid",
+        "pros": "Blooming orchids and easier permits",
+        "cons": "Mosquito spikes at dusk"
+      }
+    ],
+    "local_tips": [
+      "Pack quick-dry layers plus a lightweight poncho; cotton stays damp for days.",
+      "Walk single-file and keep voices low to avoid startling wildlife.",
+      "Confirm FI park permits; some biosphere zones cap entries daily."
+    ],
+    "safety": [
+      "Hire certified guides for night walks; the trail network gets tricky after rain.",
+      "Carry basic leech socks and antihistamines in your daypack.",
+      "Treat all water with filters or UV pens even inside lodges."
+    ],
+    "budget": {
+      "shoestring": 55,
+      "midrange": 150,
+      "luxury": 320,
+      "currency": "USD"
+    },
+    "transport": {
+      "from_airport": "Minivans connect the regional airport to trailhead towns twice daily.",
+      "getting_around": "Shared 4x4 shuttles and river boats reach most lodges.",
+      "passes": "Multi-day park wristbands save on ranger fees."
+    },
+    "hidden_gems": [
+      "Mist boardwalk over peat bog",
+      "Community-run orchid nursery"
+    ]
+  },
+  "timestamp": 1763079113463
+}

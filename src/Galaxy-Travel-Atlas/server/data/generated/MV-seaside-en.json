@@ -1,0 +1,198 @@
+{
+  "data": {
+    "destination": {
+      "name": "Maldives",
+      "iso2": "MV",
+      "theme": "seaside"
+    },
+    "overview": "The Maldives is a chain of coral islands in the Indian Ocean, famous for turquoise lagoons, white-sand sandbanks and overwater villas. It offers some of the world’s best snorkeling and diving, with coral reefs, manta rays and whale sharks. Choose between polished private-resort islands or budget-friendly, inhabited local islands. Days are about swimming, sunset cruises and stargazing; nights are relaxed and quiet. The Maldives is a Muslim country, so dress modestly on local islands and expect alcohol only at resorts and liveaboards. Many nationalities receive a 30-day visa on arrival, but always check current requirements.",
+    "top_sights": [
+      {
+        "title": "Baa Atoll & Hanifaru Bay",
+        "why_go": "UNESCO Biosphere Reserve known for huge gatherings of manta rays and occasional whale sharks, plus pristine reefs.",
+        "best_time": "June–November for plankton blooms and manta aggregations; calmer seas in January–April."
+      },
+      {
+        "title": "Ari Atoll (South & North)",
+        "why_go": "One of the top areas for diving and snorkeling with whale sharks, reef sharks and vibrant coral pinnacles.",
+        "best_time": "December–April for best visibility; whale sharks can be seen year-round in South Ari."
+      },
+      {
+        "title": "Vaadhoo Island (Raa Atoll)",
+        "why_go": "Known for the ‘Sea of Stars’ bioluminescent plankton that can make the shoreline glow at night.",
+        "best_time": "Year-round, but calm late-evening seas on warmer nights (April–November) improve chances."
+      },
+      {
+        "title": "Malé City",
+        "why_go": "Compact capital with the Grand Friday Mosque, fish and produce markets, and a glimpse of local Maldivian life.",
+        "best_time": "Year-round; explore early morning or late afternoon to avoid heat and mid-day crowds."
+      },
+      {
+        "title": "Maafushi & Other Local Islands",
+        "why_go": "More affordable guesthouses, ‘bikini beaches’, and easy access to snorkeling, sandbanks and day trips.",
+        "best_time": "December–April for sunniest beach days and smoother inter-island boat rides."
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "description": "A relaxed day based around a resort or nearby local island close to Malé, ideal for a short stopover.",
+        "stops": [
+          {
+            "name": "Morning – Arrival & Lagoon Time",
+            "activity": "Arrive at Velana International Airport (near Malé), transfer by speedboat to a nearby resort or local island (e.g., Hulhumalé or Maafushi), drop bags, then swim or snorkel in the house reef.",
+            "time": "08:00–12:00"
+          },
+          {
+            "name": "Afternoon – Sandbank Picnic & Snorkel",
+            "activity": "Join a half-day excursion to a sandbank for swimming and sunbathing, plus a guided snorkel over a nearby reef.",
+            "time": "13:00–17:00"
+          },
+          {
+            "name": "Sunset – Cruise or Paddle",
+            "activity": "Take a sunset dolphin cruise or paddleboard/kayak in the lagoon as the sky changes color.",
+            "time": "17:00–19:00"
+          },
+          {
+            "name": "Evening – Beachfront Dinner & Stargazing",
+            "activity": "Enjoy a seafood dinner by the water; finish the day stargazing from the beach or your terrace over the lagoon.",
+            "time": "19:00–22:30"
+          }
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights with stops",
+        "description": "Short break combining a local island stay with a resort-style experience and classic Maldivian activities.",
+        "stops": [
+          {
+            "name": "Day 1 – Malé & Transfer to Local Island",
+            "activity": "Land in Malé, store luggage or keep it light, and tour the Grand Friday Mosque, fish market and waterfront. After lunch, take a public or speedboat transfer to a nearby local island such as Maafushi or Thulusdhoo. Check into a guesthouse, walk the village, and swim at the designated bikini beach before a simple beachfront dinner.",
+            "time": "Full day"
+          },
+          {
+            "name": "Day 2 – Reefs, Sandbanks & Sunset Cruise",
+            "activity": "Join a full-day excursion: morning snorkeling on outer reefs, a visit to a sandbank for photos and lunch, and optional beginner diving. Return to the island for a sunset dolphin cruise, then a barbecue dinner organized by your guesthouse.",
+            "time": "Full day"
+          },
+          {
+            "name": "Day 3 – Resort Day-Visit & Departure",
+            "activity": "If time allows, book a day pass to a nearby private resort island for pools, overwater bars and polished service. Use resort transfers to get closer to the airport, then continue by speedboat back to Malé/Velana International Airport for your flight out.",
+            "time": "Half–full day, depending on flight"
+          }
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Mas huni (tuna, coconut and chili breakfast salad)",
+        "where_to_try": "Local cafés on inhabited islands such as Malé, Hulhumalé and Maafushi; look for simple ‘hotel’ restaurants serving Maldivian breakfasts."
+      },
+      {
+        "dish": "Garudhiya (clear tuna broth with rice, lime and chili)",
+        "where_to_try": "Traditional eateries in Malé near the fish market, and family-run guesthouse restaurants on local islands."
+      },
+      {
+        "dish": "Mashuni roshi wraps & short eats (hedhikaa)",
+        "where_to_try": "Tea shops and snack stalls on local islands; try fish-filled gulha and bajiya in the late afternoon."
+      },
+      {
+        "dish": "Fresh reef fish and seafood grills",
+        "where_to_try": "Resort beach grills, guesthouse barbecues on sandbanks, and seaside restaurants in Hulhumalé and Maafushi."
+      },
+      {
+        "dish": "Tropical fruit platters & coconut-based desserts",
+        "where_to_try": "Resort buffets, juice bars in Malé and Hulhumalé, and guesthouses that include fruit plates with breakfast."
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Dry season (Northeast monsoon: December–April)",
+        "weather": "Mostly sunny, lower humidity, calmer seas and best underwater visibility; occasional brief showers.",
+        "pros": "Prime beach weather, smooth boat transfers, excellent snorkeling and diving conditions.",
+        "cons": "Highest prices and occupancy; popular atolls and resorts can feel busier; need to book early."
+      },
+      {
+        "season": "Wet season (Southwest monsoon: May–November)",
+        "weather": "More humid with frequent short, heavy showers, some windy or overcast days; seas can be choppy.",
+        "pros": "Lower room rates, lusher islands, dramatic skies; good time for mantas and whale sharks in certain atolls.",
+        "cons": "Rougher seas can disrupt transfers and excursions; reduced visibility for diving at times."
+      },
+      {
+        "season": "Shoulder periods (late November & late April–early May)",
+        "weather": "Transition weeks with mixed conditions—sunny stretches punctuated by showers.",
+        "pros": "Better value than peak dry season with generally pleasant weather; easier last-minute availability.",
+        "cons": "Less predictable forecasts; some marine life hot spots depend on yearly plankton patterns."
+      }
+    ],
+    "local_tips": [
+      {
+        "tip": "Respect local customs on inhabited islands",
+        "details": "Dress modestly away from designated bikini beaches (shoulders and knees covered) and avoid public displays of affection; alcohol is prohibited outside resorts and liveaboards."
+      },
+      {
+        "tip": "Plan transfers carefully",
+        "details": "Public ferries don’t typically run late at night or on Fridays, and sea conditions can cancel boats. Always allow buffer time between your island and international flights."
+      },
+      {
+        "tip": "Protect the reef",
+        "details": "Use reef-safe sunscreen, never stand on coral, and avoid touching marine life. Fins are helpful in currents but be mindful of where you kick."
+      },
+      {
+        "tip": "Paying and tipping",
+        "details": "US dollars and cards are widely accepted in resorts; carry some MVR cash for local cafés and ferries. A 10% service charge is common; small additional tips are appreciated but optional."
+      },
+      {
+        "tip": "Stay connected",
+        "details": "Buy a local SIM at the airport (Dhiraagu or Ooredoo) for cheaper data and better coverage across islands than many international roaming plans."
+      },
+      {
+        "tip": "Check current visa rules",
+        "details": "Most visitors receive a 30-day visa on arrival if they have confirmed accommodation, onward/return tickets and sufficient funds, but always confirm requirements with official Maldivian sources before travel."
+      }
+    ],
+    "safety": [
+      {
+        "issue": "Sun exposure and dehydration",
+        "advice": "UV is intense even on cloudy days. Use high-SPF reef-safe sunscreen, drink plenty of water and wear hats and rash vests to prevent burns and heat exhaustion."
+      },
+      {
+        "issue": "Currents and marine conditions",
+        "advice": "Currents can be strong, especially at channel dive sites. Follow local guides, wear lifejackets if unsure, and avoid swimming alone or far from shore."
+      },
+      {
+        "issue": "Marine life and reef cuts",
+        "advice": "Reef cuts can get infected quickly; wear water shoes in shallow rocky areas and clean any cuts promptly. Do not touch sharks, rays or other wildlife."
+      },
+      {
+        "issue": "Cultural and legal sensitivities",
+        "advice": "The Maldives is conservative: importing pork, alcohol (outside resort channels) or religious materials for proselytizing is illegal. Drones often require resort and aviation approval."
+      },
+      {
+        "issue": "Weather disruptions",
+        "advice": "In the wet season, storms can delay seaplanes and boats. Keep travel insurance that covers missed connections and avoid tight same-day international flight links."
+      }
+    ],
+    "budget": {
+      "shoestring": "Approx. US$60–120 per person per day on local islands (guesthouse room, simple meals, public ferries, one budget excursion).",
+      "midrange": "Approx. US$200–400 per person per day (nice guesthouse or midrange resort, speedboat transfers, daily excursions and some spa or bar spending).",
+      "luxury": "US$700+ per person per day at high-end resorts or overwater villas, including seaplane transfers, à la carte dining and premium activities.",
+      "currency": "Maldivian Rufiyaa (MVR) is the official currency; US dollars are widely accepted in resorts and many guesthouses. Credit cards are standard at tourist properties."
+    },
+    "transport": {
+      "from_airport": "Velana International Airport (MLE) is on Hulhulé Island near Malé. Transfers to resorts are by speedboat or seaplane arranged by your hotel; local islands use public ferries or scheduled speedboats. Confirm transfer times before booking flights, especially for evening arrivals.",
+      "getting_around": "Within islands, most people walk, cycle or take short taxis (common on Malé and Hulhumalé). Inter-island travel uses public ferries (cheapest but slow), scheduled speedboats (fast and mid-priced) or domestic flights plus boats for distant atolls.",
+      "passes": "There is no nationwide transport pass. Buy ferry tickets at terminals or via island offices; speedboats are usually booked via your accommodation or operators. Some resorts offer bundled transfer-inclusive packages."
+    },
+    "hidden_gems": [
+      {
+        "title": "Thoddoo Island",
+        "description": "A fertile local island with wide beaches, excellent budget guesthouses and fields of watermelons and papayas. Fewer crowds than Maafushi, great for independent travelers who want space and good snorkeling close to shore."
+      },
+      {
+        "title": "Fulhadhoo & Goidhoo Lagoon (Baa Atoll)",
+        "description": "Remote-feeling islands with long, quiet beaches and an expansive turquoise lagoon. Guesthouses are low-key, stars are bright and you’re likely to share stretches of sand with only a handful of people."
+      }
+    ]
+  },
+  "timestamp": 1763105808605
+}

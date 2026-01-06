@@ -1,0 +1,109 @@
+{
+  "data": {
+    "destination": {
+      "name": "Croatia Coast",
+      "iso2": "HR",
+      "theme": "seaside"
+    },
+    "overview": "Croatia Coast is about tides, trade winds, and flag colors. Pace days around swell reports and plan indoor breaks when UV peaks.",
+    "top_sights": [
+      {
+        "title": "Protected reef snorkel",
+        "why_go": "Calm morning water with reef rangers explaining coral etiquette.",
+        "best_time": "07:30–10:00 when winds are light"
+      },
+      {
+        "title": "Croatia Coast lookout trail",
+        "why_go": "Clifftop views of coves and quick weather readouts from lifeguards.",
+        "best_time": "Late afternoon golden hour"
+      },
+      {
+        "title": "Harbor night market",
+        "why_go": "Fresh catch tastings and local musicians; great for cooler evenings.",
+        "best_time": "Thu–Sun nights"
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "stops": [
+          "Dawn swim or SUP session",
+          "Coffee at harbor roastery",
+          "Cycling between beaches",
+          "Slow lunch under shade sails",
+          "Sunset sail or pier walk"
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights",
+        "stops": [
+          "Island hop by local ferry",
+          "Hire marine biologist for reef drift",
+          "Cooking class focused on coastal spice blends",
+          "Daybed session at quieter cove",
+          "Evening market crawl"
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Citrus ceviche",
+        "where_to_try": "Harbor-side cooperative kitchens"
+      },
+      {
+        "dish": "Charred octopus",
+        "where_to_try": "Family tavern on windward quay"
+      },
+      {
+        "dish": "Tropical shaved ice",
+        "where_to_try": "Beach carts near lifeguard towers"
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Dry season",
+        "weather": "Trade winds, moderate humidity",
+        "pros": "Clear snorkeling and calmer surf",
+        "cons": "Prices climb; book boats early"
+      },
+      {
+        "season": "Wet season",
+        "weather": "Short downpours, warmer seas",
+        "pros": "Lush scenery and turtle nesting",
+        "cons": "Rip currents stronger mid-afternoon"
+      },
+      {
+        "season": "Shoulder",
+        "weather": "Mix of sun and clouds",
+        "pros": "Plenty of space on popular beaches",
+        "cons": "Some ferry routes on limited schedules"
+      }
+    ],
+    "local_tips": [
+      "Check daily flag colors—red or double-red closes swimming regardless of calm looks.",
+      "Bring reef-safe sunscreen and long-sleeve rash guards; UV index stays high until 4pm.",
+      "Review HR visa-on-arrival rules; island chains often require proof of onward travel."
+    ],
+    "safety": [
+      "Respect lifeguard whistles immediately; undertows swing fast after storms.",
+      "Avoid feeding wildlife such as reef fish or iguanas—fines are enforced.",
+      "Register boat rentals with harbor master so radios stay monitored."
+    ],
+    "budget": {
+      "shoestring": 70,
+      "midrange": 180,
+      "luxury": 420,
+      "currency": "USD"
+    },
+    "transport": {
+      "from_airport": "Airport shuttle counters sell coastal transfers; aim for early flights to beat traffic.",
+      "getting_around": "Beach cruisers, tuk-tuks, and ferries link most bays; rideshare handles late nights.",
+      "passes": "Regional ferry passes cover multi-island hops within 5 days."
+    },
+    "hidden_gems": [
+      "Mangrove kayak tunnel",
+      "Tidepool boardwalk at dusk"
+    ]
+  },
+  "timestamp": 1763082396853
+}

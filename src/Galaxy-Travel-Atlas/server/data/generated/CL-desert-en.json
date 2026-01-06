@@ -1,0 +1,109 @@
+{
+  "data": {
+    "destination": {
+      "name": "Chile Atacama",
+      "iso2": "CL",
+      "theme": "desert"
+    },
+    "overview": "Chile Atacama rewards pre-dawn starts, wide-brimmed hats, and strategic siestas. Plan short bursts outside with cooling breaks indoors to dodge the brutal mid-day sun.",
+    "top_sights": [
+      {
+        "title": "Chile Atacama dune ridge sunrise",
+        "why_go": "Golden light and long shadows make the dunes photogenic while temps are manageable.",
+        "best_time": "05:30–08:00, Oct–Mar"
+      },
+      {
+        "title": "Oasis caravan stop",
+        "why_go": "Palm groves with fresh water resupply and local guides sharing navigation tips.",
+        "best_time": "Late afternoon shade"
+      },
+      {
+        "title": "Chile Atacama star field camp",
+        "why_go": "Dry air delivers clear constellations; many camps include astronomy briefings.",
+        "best_time": "Nov–Feb nights"
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "stops": [
+          "Sunrise dune hike with ranger",
+          "Camel or 4x4 traverse between ridges",
+          "Cool down at oasis cafe",
+          "Sunset ridge watch",
+          "Stargazing with local guide"
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights",
+        "stops": [
+          "Medina supply run",
+          "Day trip to fossil plateau",
+          "Slow lunch at desert farm",
+          "Dune boarding session",
+          "Overnight nomad camp"
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Berber tagine",
+        "where_to_try": "Family tents near the main oasis"
+      },
+      {
+        "dish": "Spiced harira",
+        "where_to_try": "Sahara cooperatives along caravan hubs"
+      },
+      {
+        "dish": "Date + almond sweets",
+        "where_to_try": "Weekly souks before sunset"
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Cool season",
+        "weather": "Mild days, near-freezing nights",
+        "pros": "Best for treks and comfortable camping",
+        "cons": "Windstorms can reduce visibility"
+      },
+      {
+        "season": "Hot season",
+        "weather": "40°C+ afternoons, high UV",
+        "pros": "Clear skies for astrophotography",
+        "cons": "Activity windows limited to dawn/dusk"
+      },
+      {
+        "season": "Shoulder",
+        "weather": "Warm days, breezy nights",
+        "pros": "Dates harvest festivals and lighter crowds",
+        "cons": "Erratic sandstorms"
+      }
+    ],
+    "local_tips": [
+      "Carry at least 3L of water per person and stash electrolytes for dune climbs.",
+      "Pack a scarf or buff to block blowing sand and use breathable long sleeves for sun.",
+      "Check CL-visa and desert permit rules; many protected zones require ranger clearance."
+    ],
+    "safety": [
+      "Avoid hiking alone; dunes shift quickly and phones lose signal in basins.",
+      "Flag convoy location with lodging before long drives and note kilometer markers.",
+      "Respect wildlife tracks—snakes and scorpions cool under rocks after sunset."
+    ],
+    "budget": {
+      "shoestring": 45,
+      "midrange": 140,
+      "luxury": 360,
+      "currency": "USD"
+    },
+    "transport": {
+      "from_airport": "Shared 4x4 transfers run from the nearest regional airport; book ahead for dawn arrivals.",
+      "getting_around": "Guided convoys and camel shuttles connect dunes with oasis villages.",
+      "passes": "No transit passes; arrange ranger permits for protected ergs."
+    },
+    "hidden_gems": [
+      "Dry river canyon marble pools",
+      "Nomad-run astronomy platform"
+    ]
+  },
+  "timestamp": 1763079172999
+}

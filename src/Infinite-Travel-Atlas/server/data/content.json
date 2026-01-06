@@ -1,0 +1,283 @@
+{
+  "destinations": [
+    {
+      "id": "dest-amalfi",
+      "name": "Amalfi Coast",
+      "country": "Italy",
+      "region": "europe",
+      "style": "relaxation",
+      "description": "Cliffside villages, lemon groves, and azure coves along the Italian Riviera.",
+      "highlights": [
+        "Sunset aperitivo cruise from Positano",
+        "Private pasta workshop in Ravello",
+        "Hike the Path of the Gods"
+      ],
+      "bestTime": "May-June / September-October",
+      "duration": 5,
+      "budgetTier": "premium",
+      "climate": "Sunny seaside weather; bring breathable linens.",
+      "rating": 4.9,
+      "cover": "https://images.unsplash.com/photo-1505731132164-cca9034b839b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-japan",
+      "name": "Japan Archipelago",
+      "country": "Japan",
+      "region": "asia",
+      "style": "culture",
+      "description": "Bullet trains between neon wards, cedar forests, and coastal onsen towns.",
+      "highlights": [
+        "Night ramen crawl across Tokyo neighborhoods",
+        "Lantern-lit stroll through Nara's temple district",
+        "Soak in a volcanic onsen with mountain views"
+      ],
+      "bestTime": "March-May / October-November",
+      "duration": 7,
+      "budgetTier": "premium",
+      "climate": "Humid summers, crisp winters; layer kimonos with light jackets.",
+      "rating": 4.9,
+      "cover": "https://images.unsplash.com/photo-1505154826602-97d95b21c0f1?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-norway",
+      "name": "Norwegian Fjords",
+      "country": "Norway",
+      "region": "europe",
+      "style": "adventure",
+      "description": "Glacier-carved fjords, Arctic rail journeys, and design-forward harbor cities.",
+      "highlights": [
+        "Cruise beneath Geirangerfjord waterfalls",
+        "Ride the Flåm Railway through alpine valleys",
+        "Aurora chase above Tromsø with Sami guides"
+      ],
+      "bestTime": "May-September / November-February",
+      "duration": 6,
+      "budgetTier": "premium",
+      "climate": "Cool maritime air; pack waterproof shells and insulation layers.",
+      "rating": 4.8,
+      "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-brazil",
+      "name": "Brazil Rainforest & Coast",
+      "country": "Brazil",
+      "region": "americas",
+      "style": "outdoors",
+      "description": "Amazon canopy lodges, samba-lined beaches, and cerrado wildlife corridors.",
+      "highlights": [
+        "Sunrise canoe in the Amazon",
+        "Cable car to Sugarloaf Mountain",
+        "Lençóis Maranhenses dune lagoons flyover"
+      ],
+      "bestTime": "May-October coastal / June-November Amazon",
+      "duration": 8,
+      "budgetTier": "moderate",
+      "climate": "Tropical humidity with afternoon storms; quick-dry gear essential.",
+      "rating": 4.7,
+      "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-maldives",
+      "name": "Maldives Atolls",
+      "country": "Maldives",
+      "region": "asia",
+      "style": "relaxation",
+      "description": "Coral-ringed lagoons with seaplane hops, reef dives, and villa hammocks over clear water.",
+      "highlights": [
+        "Dawn manta ray snorkel",
+        "Sandbank picnic with private chef",
+        "Bioluminescent shore walk"
+      ],
+      "bestTime": "November-April",
+      "duration": 5,
+      "budgetTier": "premium",
+      "climate": "Equatorial warmth and high UV; plan around short monsoon bursts.",
+      "rating": 4.8,
+      "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-morocco",
+      "name": "Morocco Desert Circuit",
+      "country": "Morocco",
+      "region": "africa",
+      "style": "adventure",
+      "description": "Kasbah rooftops, Atlas passes, and Sahara dunes stitched together by caravan towns.",
+      "highlights": [
+        "Sunrise camel trek across Erg Chebbi",
+        "Spice market tasting trail through Marrakech medina",
+        "Berber music supper in a desert camp"
+      ],
+      "bestTime": "October-April",
+      "duration": 7,
+      "budgetTier": "moderate",
+      "climate": "Dry daylight heat with sharp night cool-downs; layer breathable fabrics.",
+      "rating": 4.8,
+      "cover": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-costa-rica",
+      "name": "Costa Rica Cloud Forests",
+      "country": "Costa Rica",
+      "region": "americas",
+      "style": "outdoors",
+      "description": "Cloud-forest suspension bridges, surf towns, and wildlife corridors linking two coasts.",
+      "highlights": [
+        "Night walk in Monteverde canopy",
+        "Thermal soak beneath Arenal volcano",
+        "Howler monkey sunrise paddle in Tortuguero"
+      ],
+      "bestTime": "December-April / June-July",
+      "duration": 6,
+      "budgetTier": "moderate",
+      "climate": "Tropical humidity with quick showers; waterproof layers essential.",
+      "rating": 4.7,
+      "cover": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-nepal",
+      "name": "Nepal Himalayan Traverse",
+      "country": "Nepal",
+      "region": "asia",
+      "style": "adventure",
+      "description": "Prayer-flag valleys, tea houses, and high passes along the Himalayan spine.",
+      "highlights": [
+        "Sunrise flight past Everest massif",
+        "Multi-day trek through Annapurna villages",
+        "Meditation workshop at a Kathmandu monastery"
+      ],
+      "bestTime": "March-May / October-November",
+      "duration": 8,
+      "budgetTier": "moderate",
+      "climate": "Thin alpine air with chilly nights; pack insulating layers.",
+      "rating": 4.9,
+      "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-singapore",
+      "name": "Singapore Urban Canopy",
+      "country": "Singapore",
+      "region": "asia",
+      "style": "culture",
+      "description": "Sky-park gardens, hawker culture, and waterfront night walks in a compact city-state.",
+      "highlights": [
+        "Progressive hawker tasting crawl in Tiong Bahru",
+        "Gardens by the Bay skywalk at dusk",
+        "Kampong Glam design studio visits"
+      ],
+      "bestTime": "February-April / November",
+      "duration": 4,
+      "budgetTier": "premium",
+      "climate": "Equatorial heat with frequent rain; schedule midday indoor breaks.",
+      "rating": 4.6,
+      "cover": "https://images.unsplash.com/photo-1501696468281-3b9a3b417ebb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "dest-lapland",
+      "name": "Lapland Aurora Circuit",
+      "country": "Finland",
+      "region": "europe",
+      "style": "outdoors",
+      "description": "Snow-laden forests, sauna rituals, and aurora camps above the Arctic Circle.",
+      "highlights": [
+        "Dog-sled expedition through boreal forest",
+        "Glass igloo night beneath northern lights",
+        "Smoke sauna and ice plunge in Inari"
+      ],
+      "bestTime": "December-March",
+      "duration": 5,
+      "budgetTier": "premium",
+      "climate": "Subarctic cold with limited daylight; pack thermal layers.",
+      "rating": 4.8,
+      "cover": "https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?auto=format&fit=crop&w=1200&q=80"
+    }
+  ],
+  "featuredJourneys": [
+    {
+      "id": "journey-japan",
+      "title": "Slow Travel Japan",
+      "length": "10 days",
+      "route": [
+        "Tokyo",
+        "Hakone",
+        "Kanazawa",
+        "Naoshima"
+      ],
+      "description": "Blend neon nights with island art gems, forest bathing, and long-table dining with chefs."
+    },
+    {
+      "id": "journey-andes",
+      "title": "Andean Peaks & Plateaus",
+      "length": "8 days",
+      "route": [
+        "Lima",
+        "Arequipa",
+        "Lake Titicaca",
+        "Machu Picchu"
+      ],
+      "description": "Taste Peruvian terroir, meet master artisans, and summit ancient citadels at sunrise."
+    },
+    {
+      "id": "journey-mediterranean",
+      "title": "Mediterranean Meander",
+      "length": "7 days",
+      "route": [
+        "Naples",
+        "Amalfi",
+        "Capri"
+      ],
+      "description": "Sail from seaside trattorias to citrus farms, with guided coastal hikes in between."
+    }
+  ],
+  "travelTips": [
+    {
+      "id": "tip-essentials",
+      "category": "Essentials",
+      "title": "Build buffer time on arrival",
+      "body": "Schedule an easy first day so your body can adjust to jet lag and unexpected delays."
+    },
+    {
+      "id": "tip-money",
+      "category": "Money & Connectivity",
+      "title": "Mix cash with fee-free cards",
+      "body": "Keep a small stash of local currency for markets, but lean on a travel debit card that refunds ATM fees."
+    },
+    {
+      "id": "tip-packing",
+      "category": "Packing",
+      "title": "Pack for microclimates",
+      "body": "Quick-dry layers, compact rain shells, and a travel-sized humidifier help adapt to humidity swings."
+    },
+    {
+      "id": "tip-health",
+      "category": "Health & Safety",
+      "title": "Save offline documents",
+      "body": "Download passport scans, insurance certificates, and transit passes to your phone for low-connectivity moments."
+    },
+    {
+      "id": "tip-local",
+      "category": "Culture",
+      "title": "Book community-led tours",
+      "body": "Hiring local guides keeps money in neighborhoods and deepens your storytelling encounters."
+    }
+  ],
+  "travelStats": [
+    {
+      "id": "stat-daylight",
+      "label": "Peak daylight hours",
+      "value": "11.7 hrs",
+      "context": "Average daylight across featured trips in spring shoulder season."
+    },
+    {
+      "id": "stat-leadtime",
+      "label": "Ideal booking lead time",
+      "value": "90 days",
+      "context": "Best availability window for boutique stays and local guides."
+    },
+    {
+      "id": "stat-carbon",
+      "label": "Carbon offset suggestion",
+      "value": "2.1 tCO2e",
+      "context": "Average emissions per traveler; ask providers about offset programs."
+    }
+  ]
+}

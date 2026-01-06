@@ -1,0 +1,213 @@
+{
+  "data": {
+    "destination": {
+      "name": "Eiffel Tower",
+      "iso2": "FR",
+      "theme": "urban"
+    },
+    "overview": "The Eiffel Tower, Paris’s iron icon, rises above the Seine and the Champ de Mars as the city’s most famous landmark. Visitors come for sweeping views, romantic sunsets, and glittering night illuminations. Multiple platforms host restaurants, a champagne bar, exhibits, and glass floors. Expect airport-style security, crowds, and timed entry. Pre-book online tickets, especially April–October and around Christmas/New Year. EU/Schengen rules apply for visas; many nationalities need a Schengen visa.",
+    "top_sights": [
+      {
+        "title": "Eiffel Tower Summit (3rd Floor)",
+        "why_go": "Panoramic views over all of Paris, including the Seine, Louvre, Sacré-Cœur, and La Défense, plus a small exhibit on Gustave Eiffel.",
+        "best_time": "Sunset into night on clear days; book a timed ticket weeks ahead in high season."
+      },
+      {
+        "title": "Second Floor View Terraces",
+        "why_go": "Arguably the best-balanced view: high enough for a grand panorama, low enough to pick out monuments and neighborhoods.",
+        "best_time": "Morning for softer light and fewer crowds; late evening for city lights."
+      },
+      {
+        "title": "Glass Floor on the First Floor",
+        "why_go": "Walk over a transparent floor 57 m above ground, see structural details up close, and enjoy quieter exhibits and a calmer vibe.",
+        "best_time": "Early morning or late evening; less crowded than upper levels all day."
+      },
+      {
+        "title": "Champ de Mars Gardens",
+        "why_go": "Classic postcard view of the tower, perfect for picnics, photos, and watching the hourly evening sparkle show.",
+        "best_time": "Late afternoon to evening; summer for picnics, winter for clearer skies."
+      },
+      {
+        "title": "Trocadéro Esplanade",
+        "why_go": "One of the most dramatic straight-on views of the tower across the Seine; ideal for sunrise and sunset photography.",
+        "best_time": "Sunrise for minimal crowds and soft light; sunset for golden-hour photos."
+      }
+    ],
+    "itineraries": {
+      "Perfect 24 Hours": [
+        {
+          "stop": "Morning: Trocadéro Sunrise and Photos",
+          "details": "Start at Trocadéro (Métro Trocadéro). Capture sunrise photos with minimal crowds, then walk down the steps towards the Seine.",
+          "approx_time": "2–3 hours"
+        },
+        {
+          "stop": "Mid-Morning: Seine Walk and Champ de Mars",
+          "details": "Cross Pont d’Iéna, stroll along the Seine, then relax or picnic in the Champ de Mars while admiring the tower from below.",
+          "approx_time": "1.5–2 hours"
+        },
+        {
+          "stop": "Lunch Nearby in the 7th Arrondissement",
+          "details": "Head to Rue Cler or surrounding streets for bistros and bakeries; try a simple prix-fixe lunch or takeaway picnic supplies.",
+          "approx_time": "1–1.5 hours"
+        },
+        {
+          "stop": "Afternoon: Eiffel Tower Visit (Second Floor & First Floor)",
+          "details": "Use pre-booked timed tickets. Take the elevator (or stairs if fit) to the 2nd floor for views, then descend to the 1st floor for the glass floor and exhibits.",
+          "approx_time": "2–3 hours"
+        },
+        {
+          "stop": "Evening: Seine Cruise and Night Sparkle",
+          "details": "Board a 1-hour Seine cruise from near the tower to see major monuments. Return to watch the Eiffel Tower’s hourly sparkle after dark.",
+          "approx_time": "2–3 hours"
+        }
+      ],
+      "2–3 Day Highlights": [
+        {
+          "day": "Day 1: Classic Eiffel Tower & Surroundings",
+          "stops": [
+            {
+              "stop": "Morning at Champ de Mars and Rue Cler",
+              "details": "Stroll the gardens, explore Rue Cler’s food shops and cafés, and gather picnic items.",
+              "approx_time": "3 hours"
+            },
+            {
+              "stop": "Afternoon Tower Visit (Summit if booked)",
+              "details": "Timed-entry visit to the Eiffel Tower, including summit if available. Spend time on each level for varied views.",
+              "approx_time": "3 hours"
+            },
+            {
+              "stop": "Dinner Cruise or Nearby Bistro",
+              "details": "End with a Seine dinner cruise or a traditional bistro in the 7th, then enjoy the night illuminations.",
+              "approx_time": "3 hours"
+            }
+          ]
+        },
+        {
+          "day": "Day 2: Museums and Riverfront",
+          "stops": [
+            {
+              "stop": "Musée d’Orsay or Musée du Quai Branly – Jacques Chirac",
+              "details": "Visit one major museum within walking/bus distance for art or world cultures.",
+              "approx_time": "3–4 hours"
+            },
+            {
+              "stop": "Seine Promenade and Bridges",
+              "details": "Walk from the tower towards Pont Alexandre III and the Invalides area for grand river views.",
+              "approx_time": "2 hours"
+            },
+            {
+              "stop": "Evening Drinks with Tower Views",
+              "details": "Choose a rooftop bar or riverside terrace where the Eiffel Tower forms the backdrop to your evening.",
+              "approx_time": "2–3 hours"
+            }
+          ]
+        },
+        {
+          "day": "Day 3 (Optional): Wider Paris Icons",
+          "stops": [
+            {
+              "stop": "Louvre or Montmartre Morning",
+              "details": "Dedicate the morning to a headline site. You’ll still see the tower peeking over the skyline from many vantage points.",
+              "approx_time": "4 hours"
+            },
+            {
+              "stop": "Return for Final Tower Views",
+              "details": "Come back to Trocadéro or the Champ de Mars at golden hour for farewell photos and a picnic or café stop.",
+              "approx_time": "2–3 hours"
+            },
+            {
+              "stop": "Nighttime Neighborhood Stroll",
+              "details": "Walk through the 7th arrondissement’s side streets for calmer views of the illuminated tower before heading back.",
+              "approx_time": "1.5–2 hours"
+            }
+          ]
+        }
+      ]
+    },
+    "food_highlights": [
+      {
+        "dish": "Crepes (Sweet or Savory Galettes)",
+        "where_to_try": "Creperies along Rue Cler or around La Motte-Picquet–Grenelle; avoid the most touristy stands right under the tower."
+      },
+      {
+        "dish": "Steak-Frites",
+        "where_to_try": "Traditional brasseries in the 7th arrondissement; look for fixed-price menus popular with locals at lunch."
+      },
+      {
+        "dish": "Macarons",
+        "where_to_try": "Established patisseries such as Ladurée or Pierre Hermé (multiple Paris locations, a short Métro ride from the tower)."
+      },
+      {
+        "dish": "Baguette Sandwiches & Picnic Essentials",
+        "where_to_try": "Local boulangeries and fromageries around École Militaire and Rue Cler for picnics on the Champ de Mars."
+      },
+      {
+        "dish": "Classic French Onion Soup",
+        "where_to_try": "Cozy bistros on side streets off Avenue de la Bourdonnais or Rue Saint-Dominique."
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Spring (March–May)",
+        "weather": "Mild, 10–20°C; occasional rain, blooming trees around Champ de Mars.",
+        "pros": "Longer days, pleasant temperatures, pretty photos with blossoms; slightly fewer crowds than peak summer.",
+        "cons": "Unpredictable showers; popular weeks (Easter, May holidays) can be very busy and pricey."
+      },
+      {
+        "season": "Summer (June–August)",
+        "weather": "Warm to hot, 20–30°C; some heatwaves; long daylight hours.",
+        "pros": "Evening picnics, late sunsets, vibrant street life, frequent sparkle watching in comfort.",
+        "cons": "Peak crowds, longest lines, higher prices; heat can make mid-day visits uncomfortable."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "weather": "Cooling from 18–10°C; crisp air, more rain by November.",
+        "pros": "Generally fewer crowds after early October; atmospheric views with autumn light and foliage.",
+        "cons": "Shortening days; some windy, chilly conditions on upper levels of the tower."
+      },
+      {
+        "season": "Winter (December–February)",
+        "weather": "Cold, 0–8°C; grey skies, occasional snow or sleet.",
+        "pros": "Lower crowds (except Christmas/New Year); clear, sharp views on bright days; festive lights.",
+        "cons": "Very cold and windy at the summit; shorter opening hours and possible weather-related disruptions."
+      }
+    ],
+    "local_tips": [
+      "Buy official timed tickets on the Eiffel Tower website as early as possible; resellers often mark up prices.",
+      "Security is strict: large bags, glass bottles, and certain items are not allowed; check the latest list before visiting.",
+      "If you’re fit, consider taking the stairs to the 2nd floor; queues are often shorter and views between levels are excellent.",
+      "The tower sparkles for 5 minutes every hour on the hour after dark; arrive a few minutes early at your chosen viewpoint.",
+      "Pickpockets operate in crowds and on public transport around the tower—keep valuables zipped and in front of you.",
+      "Check whether you need a Schengen visa well in advance; many non-EU visitors must apply before arrival and cannot get one on the spot."
+    ],
+    "safety": [
+      "Area around the Eiffel Tower is generally safe but extremely crowded; stay alert to pickpockets and distraction scams.",
+      "Only buy tickets from official counters or the official website, not from touts approaching you near the tower.",
+      "Beware of common scams such as friendship bracelets, clipboard petitions, or shell games near Trocadéro and Champ de Mars.",
+      "At night, stick to well-lit main paths and avoid isolated corners of the park; use licensed taxis or reputable ride-hailing apps.",
+      "Follow all staff instructions while in the tower, especially regarding crowd control, lift use, and weather-related access limits."
+    ],
+    "budget": {
+      "shoestring": "Prepare €25–€50 per person per day around the Eiffel Tower area (excluding accommodation): picnic supplies from supermarkets/bakeries, public transport, and a basic tower ticket if booked in advance. Lodging is usually cheaper further from the 7th arrondissement.",
+      "midrange": "Expect €70–€150 per person per day (excluding accommodation) for a tower visit, sit-down bistro meals, a Seine cruise, café stops, and unlimited public transport via passes.",
+      "luxury": "Plan €200+ per person per day (excluding accommodation) for summit tickets, fine dining (including possible Eiffel Tower restaurant bookings), private tours, and taxis or private cars.",
+      "currency": "EUR"
+    },
+    "transport": {
+      "from_airport": "From Charles de Gaulle (CDG), take RER B to Saint-Michel–Notre-Dame and connect to RER C for Champ de Mars–Tour Eiffel, or connect via Denfert-Rochereau to Métro line 6 for Bir-Hakeim. From Orly (ORY), use Orlyval + RER B or Orlybus + Métro. Taxis and ride-hailing cost more but are easier with luggage; allow extra time for traffic.",
+      "getting_around": "The Eiffel Tower is best reached via Métro Bir-Hakeim (Line 6), Trocadéro (Lines 6 and 9), or RER C (Champ de Mars–Tour Eiffel). Walking and cycling paths along the Seine are excellent for short distances; taxis and ride-hailing are widely available late at night.",
+      "passes": "For heavy sightseeing, consider a Navigo Easy or Navigo Découverte pass for buses, RER, and Métro. Many city passes (such as the Paris Museum Pass) do not include the Eiffel Tower itself, so check inclusions carefully and always book tower time slots separately."
+    },
+    "hidden_gems": [
+      {
+        "title": "Square Rapp and Rue de l’Université Viewpoints",
+        "description": "A short walk from the tower, these quieter streets offer beautiful framed views of the Eiffel Tower without the heavy crowds of Trocadéro."
+      },
+      {
+        "title": "Promenade d’Australie and Île aux Cygnes",
+        "description": "Stroll along the Seine’s lesser-known paths and the narrow Île aux Cygnes for serene river views and unique angles of the tower and city skyline."
+      }
+    ]
+  },
+  "timestamp": 1763104076383
+}

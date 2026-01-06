@@ -1,0 +1,171 @@
+{
+  "data": {
+    "destination": {
+      "name": "Japan",
+      "iso2": "JP",
+      "theme": "seaside"
+    },
+    "overview": "Japan’s coastline stretches for thousands of kilometers, from subtropical Okinawa to rugged Hokkaido, offering beaches, fishing ports, island-hopping routes, and onsen towns that open onto the sea. You can surf near Tokyo, snorkel coral reefs, cycle across island bridges in the Seto Inland Sea, or relax in hot springs overlooking the Pacific. Efficient trains and ferries make coastal getaways easy from major cities. Expect clean facilities, clear rules, and delicious seafood everywhere from simple beach shacks to refined kaiseki ryokan.",
+    "top_sights": [
+      {
+        "title": "Kamakura & Enoshima (Kanagawa)",
+        "why_go": "Easy seaside escape from Tokyo with temples in forested hills, wide surfing beaches at Yuigahama, and Enoshima Island’s coastal walks, caves, and lighthouse views over Sagami Bay and Mt. Fuji on clear days.",
+        "best_time": "April–June and September–November for mild weather and fewer crowds; July–August if you want peak beach season and festivals."
+      },
+      {
+        "title": "Miyajima Island (Hiroshima)",
+        "why_go": "Famous for Itsukushima Shrine’s torii gate rising from the sea, wooded Mt. Misen hikes with inland sea panoramas, and quiet bays where you can kayak or take sunset cruises.",
+        "best_time": "Late March–May for sakura and comfortable temperatures; October–November for vivid autumn leaves and crisp, clear views."
+      },
+      {
+        "title": "Okinawa Main Island & Kerama Islands",
+        "why_go": "White-sand beaches, turquoise water, coral reefs, and laid-back island culture. The Kerama Islands offer superb snorkeling, diving, and occasional sea turtle sightings, within easy reach of Naha.",
+        "best_time": "April–early July and late September–November for warm seas and fewer typhoons; July–August for the hottest weather and liveliest beach scene."
+      },
+      {
+        "title": "Shirahama (Wakayama)",
+        "why_go": "Classic resort town with a wide crescent of imported white sand, dramatic rocky coastline, coastal hot springs, and easy access from Osaka, making it ideal for a quick onsen-and-beach break.",
+        "best_time": "May–June and September for pleasant weather without peak crowds; July–August for swimming and fireworks festivals."
+      },
+      {
+        "title": "Otaru & Shakotan Peninsula (Hokkaido)",
+        "why_go": "Historic Otaru canal town combined with Shakotan’s rugged cliffs, clear blue water, sea kayaking, and fresh uni (sea urchin) makes for a cooler-climate seaside escape in summer.",
+        "best_time": "June–September for hiking, water activities, and seafood at its best; winter is atmospheric but coastal activities are limited."
+      },
+      {
+        "title": "Izu Peninsula (Shizuoka)",
+        "why_go": "Jagged Pacific coastline, sandy beaches, coastal onsen towns like Atami and Shimoda, plus ocean-view hiking trails and excellent snorkeling and diving, all within a few hours of Tokyo.",
+        "best_time": "April–June and September–October for mild, clear days; July–August for full beach facilities and swimming."
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "stops": [
+          {
+            "stop": "Morning – Tokyo to Kamakura",
+            "details": "Take an early JR train from Tokyo or Shinjuku to Kamakura (about 1 hr). Visit Kotoku-in’s Great Buddha and Hase-dera Temple, both with glimpses of the ocean and hilltop views."
+          },
+          {
+            "stop": "Late Morning – Coastal Walk & Café",
+            "details": "Stroll down to Yuigahama Beach for a walk along the sand. Stop at a beachfront café for coffee and a light brunch while watching surfers and locals."
+          },
+          {
+            "stop": "Afternoon – Enoshima Island",
+            "details": "Ride the Enoden train along the sea to Enoshima. Explore the island’s shrines, observation tower, and rocky tidal pools. On clear days, enjoy views of Mt. Fuji across Sagami Bay."
+          },
+          {
+            "stop": "Sunset – Enoshima Coastline",
+            "details": "Stay for sunset along the western side of Enoshima or nearby Katase-Enoshima Beach. Photograph the torii gates and lighthouse silhouetted against the sky."
+          },
+          {
+            "stop": "Evening – Seafood Dinner & Return",
+            "details": "Dine at a local seafood restaurant for shirasu (whitebait), sashimi, or grilled fish. Then take the train back to Tokyo in about an hour."
+          }
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights",
+        "stops": [
+          {
+            "stop": "Day 1 – Kamakura & Enoshima from Tokyo",
+            "details": "Follow the 24-hour itinerary at a relaxed pace. Add a visit to Tsurugaoka Hachimangu Shrine or a short hiking trail between temples before heading to Enoshima for sunset. Overnight in Kamakura or back in Tokyo."
+          },
+          {
+            "stop": "Day 2 – Izu Peninsula Coastline",
+            "details": "Take a morning train from Tokyo to Atami or Ito. Ride the Izu Kyuko Line for ocean views, stopping at scenic points like Jogasaki Coast for cliffside walks and suspension bridges. Soak in an onsen with sea views in Ito or Izu Kogen. Overnight at a seaside ryokan if budget allows."
+          },
+          {
+            "stop": "Optional Day 3 – Hakone or Shimoda Beaches",
+            "details": "If you have a third day, continue south to Shimoda for white-sand beaches and snorkeling in summer, or detour to Hakone for lake and mountain views plus onsen before returning to Tokyo in the evening."
+          }
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Kaisendon (seafood rice bowl)",
+        "where_to_try": "Fish markets and port towns nationwide. Excellent options include Hakodate Morning Market (Hokkaido), Otaru Canal area, and Kanazawa’s Omicho Market, where stalls pile bowls high with tuna, salmon, crab, and local specialties."
+      },
+      {
+        "dish": "Sushi and sashimi platters",
+        "where_to_try": "Tokyo’s Toyosu Market sushi bars, neighborhood sushi-ya in coastal cities, and conveyor-belt chains like Sushiro and Kura Sushi for budget-friendly options. Look for local wild-caught fish in seaside towns for the freshest taste."
+      },
+      {
+        "dish": "Grilled seafood and robatayaki",
+        "where_to_try": "Izakaya near ports such as in Aomori, Yokohama, Kobe, and Fukuoka often serve charcoal-grilled squid, scallops, mackerel, and shellfish. Beachside shacks in summer offer simple but delicious grilled fish and clams."
+      },
+      {
+        "dish": "Hiroshima-style okonomiyaki with oysters",
+        "where_to_try": "Okonomimura and small griddle counters throughout Hiroshima City and Miyajima. The layered pancake with noodles is often topped or filled with locally farmed oysters from the Seto Inland Sea."
+      },
+      {
+        "dish": "Okinawan seafood & island dishes",
+        "where_to_try": "Beach cafés and izakaya in Naha, Chatan, Zamami, and Ishigaki serve sashimi from local tuna, gurukun (bananafish), umi-budo (sea grapes), plus Okinawan staples like goya champuru and Okinawa soba."
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Spring (March–May)",
+        "weather": "Mild to warm; coastal highs around 12–22°C in Honshu, warmer in Okinawa. Occasional rain and pollen.",
+        "pros": "Cherry blossoms and fresh greenery along coasts; pleasant temperatures for walks, cycling, and light hiking; fewer beach crowds; clearer sea views than in midsummer.",
+        "cons": "Water is still cool for swimming outside Okinawa; popular sakura spots and trains can be crowded; accommodation prices rise during peak bloom weeks."
+      },
+      {
+        "season": "Summer (June–August)",
+        "weather": "Hot and humid in most of Japan (25–33°C), with rainy season early summer and typhoon risk increasing from July. Okinawa is very hot but breezy along the coast.",
+        "pros": "Peak beach season with lifeguards, rental chairs, and food stalls; best time for swimming, snorkeling, and island-hopping; many seaside festivals and fireworks displays.",
+        "cons": "Strong sun and humidity; some beaches and trains are very crowded; higher prices in school holiday periods; occasional typhoon disruptions, especially in southern and western Japan."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "weather": "Starts warm and gradually cools (about 18–25°C in September to 10–18°C in November along much of Honshu’s coast). Generally dry and clear.",
+        "pros": "Comfortable for cycling routes like the Shimanami Kaido, coastal hikes, and sightseeing; autumn foliage in October–November; sea still warm enough for swimming in early autumn.",
+        "cons": "Early September still has some typhoon risk; water sports rentals and beach facilities may start closing from late September in less touristy areas."
+      },
+      {
+        "season": "Winter (December–February)",
+        "weather": "Cold in northern and Sea of Japan coasts with snow; milder but crisp around Tokyo and western Pacific coasts; pleasantly cool and dry in Okinawa.",
+        "pros": "Dramatic coastal scenery, especially on the Sea of Japan side; prime season for crab and other winter seafood; coastal onsen towns are atmospheric; smaller crowds at many seaside spots.",
+        "cons": "Too cold for beach swimming except in Okinawa; rough seas can affect ferries; shorter daylight hours; some seasonal beach facilities and marine tours shut down."
+      }
+    ],
+    "local_tips": [
+      "On beaches, follow local rules: smoking and alcohol may be restricted, and some sections are roped off for swimmers. Lifeguards are usually present only in peak summer.",
+      "Many seaside areas have public baths or onsen; wash thoroughly before entering the bath, keep towels out of the water, and note that tattoos may be restricted in some facilities.",
+      "Cashless payment is growing, but small coastal towns and beach stalls may be cash-only. Carry some yen, plus an IC card (Suica, PASMO, ICOCA) for trains and convenience stores.",
+      "In smaller fishing villages, English signage is limited. Download offline maps and translation apps, and learn a few basic phrases like “sumimasen” (excuse me) and “arigatou” (thank you).",
+      "Trash bins are rare even on beaches; carry a small bag and take your rubbish with you. Sorting rules for recycling may be posted in accommodations and public areas."
+    ],
+    "safety": [
+      "Swimming areas are usually marked; stay within flagged zones, especially with children. Rip currents and sudden drop-offs can occur outside designated swimming areas.",
+      "From June to October, typhoons can bring heavy rain, strong winds, and high waves. Monitor local forecasts, heed warnings, and be prepared for ferry and train cancellations.",
+      "Marine life hazards include jellyfish (late summer), sea urchins, and sharp coral in Okinawa and southern coasts. Wear water shoes and a rash guard when snorkeling or wading.",
+      "Japan is generally very safe, but coastal regions are earthquake- and tsunami-prone. Learn local evacuation routes, pay attention to signage, and follow instructions if you feel strong shaking.",
+      "Alcohol limits for drivers are extremely strict (effectively zero tolerance). Never drink and drive; use trains, taxis, or designated drivers when enjoying seaside bars or izakaya.",
+      "Entry & visa: Many nationalities receive short-term visa-free stays for tourism, but rules change. Check the latest requirements on the official Ministry of Foreign Affairs website or with a Japanese embassy or consulate, ensure your passport has sufficient validity, and do not work on a tourist status."
+    ],
+    "budget": {
+      "shoestring": "Stay in hostels, basic guesthouses, and capsule hotels in coastal cities (¥4,000–¥8,000 per night), eat at supermarkets, udon shops, and conveyor-belt sushi, and use regional rail passes or buses. Expect roughly ¥8,000–¥12,000 per day.",
+      "midrange": "Mix business hotels and simple ryokan with two meals, frequent casual seafood meals, and moderate train travel including some limited express services. Budget about ¥15,000–¥25,000 per day per person.",
+      "luxury": "Stay in upscale seaside ryokan or resorts with ocean-view onsen and kaiseki dinners, dine at fine sushi counters, and use first-class rail seats or domestic flights to island chains. Plan from ¥30,000–¥60,000+ per day.",
+      "currency": "JPY"
+    },
+    "transport": {
+      "from_airport": "From Tokyo’s Narita and Haneda airports, use JR trains, private railways (Keisei, Keikyu), or limousine buses to reach the city and connect onward to coastal areas like Kamakura and Izu. Kansai International Airport links by train to Osaka, Kobe, and Wakayama’s seaside. Naha Airport in Okinawa has a monorail to central Naha, with buses and ferries onward to beach areas and outer islands.",
+      "getting_around": "JR and private railways efficiently connect most major coastal cities and nearby beaches. Local buses cover smaller towns and fishing villages. Ferries link islands in the Seto Inland Sea, Okinawa, and Hokkaido. Taxis are safe but expensive for long coastal stretches; rental cars are useful in rural areas, but you’ll need an International Driving Permit plus your license.",
+      "passes": "Consider the nationwide Japan Rail Pass or regional passes like the JR East Pass, JR West Setouchi Area Pass, or JR Kyushu Pass if doing multiple long coastal hops. City subway/bus day passes exist in places like Tokyo, Osaka, and Fukuoka. Prepaid IC cards (Suica, PASMO, ICOCA) are widely accepted on trains, buses, and many ferries, and can simplify seaside day trips."
+    },
+    "hidden_gems": [
+      {
+        "title": "Shimanami Kaido (Seto Inland Sea)",
+        "why_go": "A 70 km cycling route linking Honshu and Shikoku via a chain of islands, with dedicated bike lanes, gentle climbs, and constant sea views. You can stop at quiet beaches, small fishing ports, and local cafés, and rent or drop off bikes at multiple points."
+      },
+      {
+        "title": "Tomonoura (Hiroshima Prefecture)",
+        "why_go": "A small, old-fashioned harbor town on the Seto Inland Sea that inspired the setting of Studio Ghibli’s “Ponyo.” Narrow streets, traditional inns, and boats bobbing in the bay create a timeless atmosphere, with short coastal walks and tranquil viewpoints nearby."
+      }
+    ]
+  },
+  "timestamp": 1763105784204
+}

@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ATLAS COCKPIT – World Travel Nodes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      :root {
+        --vibe-accent: #8df2ff;
+        --vibe-accent-soft: rgba(141, 242, 255, 0.16);
+        --vibe-card-bg: radial-gradient(circle at 20% 10%, rgba(25, 45, 80, 0.25), rgba(4, 6, 16, 0.95));
+        --vibe-glow: radial-gradient(circle at 80% 20%, rgba(255, 132, 255, 0.2), transparent 45%);
+        --vibe-glow-2: radial-gradient(circle at 10% 60%, rgba(86, 196, 255, 0.15), transparent 50%);
+      }
+
+      body {
+        font-family: "Space Grotesk", "Plus Jakarta Sans", "Segoe UI", sans-serif;
+        background: radial-gradient(circle at 15% 10%, rgba(117, 175, 255, 0.16), transparent 35%),
+          radial-gradient(circle at 70% 10%, rgba(255, 152, 255, 0.16), transparent 40%),
+          linear-gradient(145deg, #01030a 0%, #05081a 60%, #02030d 100%);
+        color: #f8fbff;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        padding: 32px 16px;
+      }
+
+      .atlas-root {
+        width: min(1300px, 100%);
+        background: color-mix(in srgb, #050813 72%, rgba(8, 17, 45, 0.7));
+        border-radius: 38px;
+        padding: 32px 36px 36px;
+        box-shadow: 0 26px 60px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(255, 255, 255, 0.03),
+          0 0 80px rgba(92, 182, 255, 0.09);
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .atlas-root::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: var(--vibe-glow), var(--vibe-glow-2);
+        opacity: 0.9;
+        pointer-events: none;
+        z-index: 0;
+      }
+
+      .atlas-root > * {
+        position: relative;
+        z-index: 1;
+      }
+
+      .atlas-header-title {
+        font-size: 30px;
+        font-weight: 650;
+        letter-spacing: 0.01em;
+        margin-bottom: 8px;
+      }
+
+      .atlas-header-sub {
+        font-size: 14px;
+        color: rgba(215, 224, 255, 0.78);
+        max-width: 760px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+      }
+
+      .atlas-subnote {
+        font-size: 12px;
+        color: rgba(180, 194, 230, 0.75);
+        margin-bottom: 24px;
+      }
+
+      .atlas-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 28px;
+        margin-bottom: 28px;
+        width: 100%;
+      }
+
+      .atlas-map-panel,
+      .atlas-detail-panel {
+        background: radial-gradient(circle at top left, rgba(8, 13, 30, 0.9), rgba(3, 5, 12, 0.95));
+        border: 1px solid rgba(255, 255, 255, 0.04);
+        border-radius: 26px;
+        padding: 24px;
+        box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.02);
+      }
+
+      .atlas-detail-panel {
+        background: var(--vibe-card-bg);
+        border-color: var(--vibe-accent-soft);
+        box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.02), 0 25px 60px rgba(5, 8, 20, 0.65);
+        transition: background 200ms ease, border-color 200ms ease, box-shadow 200ms ease;
+      }
+
+      .atlas-map-panel {
+        padding-bottom: 18px;
+      }
+
+      .atlas-panel-heading {
+        font-size: 15px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: rgba(180, 198, 245, 0.65);
+        margin-bottom: 12px;
+      }
+
+      #atlas-map-plane {
+        position: relative;
+        width: 100%;
+        height: 520px;
+        border-radius: 26px;
+        background: radial-gradient(circle at 20% 0%, #253156 0, #050814 50%, #020308 100%);
+        overflow: hidden;
+        box-shadow: 0 18px 60px rgba(0, 0, 0, 0.7) inset;
+        border: 1px solid rgba(120, 160, 255, 0.1);
+        --atlas-globe-tint: rgba(127, 212, 255, 0.12);
+      }
+
+      #atlas-map-plane::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(circle at 30% 20%, var(--atlas-globe-tint), transparent 60%);
+        opacity: 0.8;
+        pointer-events: none;
+        transition: background 300ms ease, opacity 300ms ease;
+      }
+
+      #atlas-map-plane canvas {
+        width: 100% !important;
+        height: 100% !important;
+        border-radius: inherit;
+        outline: none;
+      }
+
+      .atlas-map-panel::after {
+        content: "";
+        display: block;
+        height: 1px;
+        background: rgba(255, 255, 255, 0.05);
+        margin: 22px 0 12px;
+      }
+
+      .atlas-status-strip {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+        font-size: 12px;
+        color: rgba(210, 220, 255, 0.85);
+      }
+
+      .atlas-pill {
+        padding: 9px 16px;
+        border-radius: 999px;
+        border: 1px solid rgba(120, 140, 190, 0.45);
+        background: radial-gradient(circle at top left, rgba(40, 60, 110, 0.4), rgba(5, 8, 18, 0.9));
+        display: flex;
+        flex-direction: column;
+        min-width: 150px;
+      }
+
+      .atlas-pill-label {
+        font-size: 10px;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: rgba(160, 178, 220, 0.85);
+        margin-bottom: 4px;
+      }
+
+      .atlas-pill-value {
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      #atlas-now-focused {
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      .atlas-tooltip {
+        position: absolute;
+        padding: 6px 10px;
+        border-radius: 10px;
+        background: rgba(5, 10, 26, 0.96);
+        color: #fdfdff;
+        font-size: 11px;
+        pointer-events: none;
+        white-space: nowrap;
+        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.6);
+        opacity: 0;
+        transform: translate(-50%, -8px);
+        transition: opacity 0.12s ease-out, transform 0.12s ease-out;
+        border: 1px solid rgba(120, 180, 255, 0.4);
+        z-index: 4;
+      }
+
+      .atlas-tooltip.visible {
+        opacity: 1;
+        transform: translate(-50%, -14px);
+      }
+
+      .atlas-detail-panel {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+      }
+
+      .atlas-detail-header {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .atlas-detail-header button {
+        align-self: flex-start;
+        padding: 7px 14px;
+        border-radius: 999px;
+        border: 1px solid var(--vibe-accent-soft);
+        background: rgba(255, 255, 255, 0.03);
+        color: var(--vibe-accent);
+        cursor: pointer;
+        transition: color 180ms ease, border-color 180ms ease, background 180ms ease;
+      }
+
+      .atlas-detail-header button:hover {
+        background: rgba(255, 255, 255, 0.08);
+        border-color: var(--vibe-accent);
+      }
+
+      .atlas-detail-meta-label {
+        font-size: 11px;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: var(--vibe-accent);
+      }
+
+      #atlas-detail-title {
+        font-size: 22px;
+        font-weight: 600;
+      }
+
+      #atlas-detail-meta {
+        font-size: 13px;
+        color: rgba(210, 220, 255, 0.85);
+      }
+
+      .atlas-detail-body {
+        flex: 1;
+        min-height: 320px;
+        border-radius: 18px;
+        padding: 18px;
+        background: rgba(5, 6, 16, 0.6);
+        border: 1px solid var(--vibe-accent-soft);
+        overflow-y: auto;
+        box-shadow: inset 0 0 40px rgba(4, 8, 20, 0.45);
+      }
+
+      .atlas-detail-loading {
+        padding: 12px;
+        border-radius: 12px;
+        background: var(--vibe-accent-soft);
+        border: 1px dashed rgba(255, 255, 255, 0.2);
+        font-size: 13px;
+        color: rgba(245, 247, 255, 0.86);
+      }
+
+      .atlas-detail-placeholder {
+        color: rgba(200, 208, 240, 0.78);
+        font-size: 14px;
+      }
+
+      .atlas-detail-panel.is-idle #atlas-detail-body {
+        background: rgba(255, 255, 255, 0.015);
+      }
+
+      .detail-section {
+        margin-bottom: 18px;
+      }
+
+      .detail-section h3 {
+        font-size: 14px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--vibe-accent);
+        margin-bottom: 8px;
+      }
+
+      .detail-section p {
+        font-size: 14px;
+        line-height: 1.45;
+        color: rgba(229, 233, 255, 0.92);
+      }
+
+      .detail-section-note {
+        font-size: 12px;
+        line-height: 1.4;
+        color: rgba(255, 255, 255, 0.7);
+        margin-top: 6px;
+      }
+
+      .detail-section ul {
+        margin: 0;
+        padding-left: 18px;
+        display: grid;
+        gap: 6px;
+        color: rgba(226, 232, 255, 0.9);
+      }
+
+      .detail-section ul li {
+        line-height: 1.4;
+      }
+
+      .detail-meta-grid {
+        margin-top: 12px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 10px;
+      }
+
+      .detail-meta-card {
+        border-radius: 14px;
+        border: 1px solid var(--vibe-accent-soft);
+        padding: 10px 12px;
+        background: rgba(12, 16, 30, 0.85);
+      }
+
+      .detail-meta-card span {
+        display: block;
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--vibe-accent);
+        margin-bottom: 4px;
+      }
+
+      .detail-meta-card p {
+        margin: 0;
+        font-size: 13px;
+        line-height: 1.4;
+      }
+
+      .plan-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 12px;
+      }
+
+      .plan-card {
+        padding: 14px;
+        border-radius: 16px;
+        background: rgba(12, 16, 30, 0.85);
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        border-color: var(--vibe-accent-soft);
+        min-height: 120px;
+      }
+
+      .plan-card strong {
+        display: block;
+        margin-bottom: 6px;
+        font-size: 13px;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: var(--vibe-accent);
+      }
+
+      .plan-card span {
+        font-size: 13px;
+        color: rgba(222, 230, 255, 0.9);
+      }
+
+      .plan-card--day span {
+        font-size: 15px;
+        font-weight: 600;
+        margin-bottom: 10px;
+      }
+
+      .plan-day-detail {
+        display: grid;
+        gap: 8px;
+        margin-top: 8px;
+      }
+
+      .plan-day-block label {
+        display: block;
+        font-size: 12px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--vibe-accent);
+        margin-bottom: 2px;
+      }
+
+      .plan-day-block p {
+        margin: 0;
+        font-size: 13px;
+        color: rgba(229, 233, 255, 0.92);
+        line-height: 1.45;
+      }
+
+      .intel-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        gap: 12px;
+        margin-top: 12px;
+      }
+
+      .intel-cell {
+        padding: 12px;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.03);
+        border: 1px solid rgba(255, 255, 255, 0.05);
+      }
+
+      .intel-cell span {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: rgba(169, 186, 239, 0.7);
+      }
+
+      .intel-cell strong {
+        display: block;
+        margin-top: 4px;
+        font-size: 15px;
+      }
+
+      .visual-overview {
+        margin-bottom: 18px;
+      }
+
+      .visual-overview__label {
+        font-size: 12px;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        color: rgba(255, 255, 255, 0.7);
+        margin-bottom: 10px;
+      }
+
+      .visual-overview-card {
+        border-radius: 24px;
+        padding: 16px 22px;
+        background: rgba(4, 6, 18, 0.85);
+        border: 1px solid var(--vibe-accent-soft);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+        box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4), 0 0 30px var(--vibe-accent-soft);
+      }
+
+      .visual-overview-chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        justify-content: center;
+      }
+
+      .vibe-chip {
+        padding: 6px 12px;
+        border-radius: 999px;
+        background: var(--vibe-accent-soft);
+        color: var(--vibe-accent);
+        font-size: 12px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .visual-overview-text {
+        text-align: center;
+        max-width: 460px;
+      }
+
+      .visual-overview-title {
+        font-size: 14px;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: rgba(255, 255, 255, 0.8);
+        margin-bottom: 6px;
+      }
+
+      .visual-overview-card p {
+        font-size: 15px;
+        line-height: 1.5;
+        color: rgba(245, 247, 255, 0.9);
+      }
+
+      .atlas-error {
+        color: #f9acac;
+      }
+
+      @media (max-width: 1080px) {
+        .atlas-detail-panel {
+          min-height: 320px;
+        }
+      }
+
+      @media (max-width: 640px) {
+        .atlas-root {
+          padding: 24px;
+        }
+
+        #atlas-map-plane {
+          height: 400px;
+        }
+
+        .atlas-status-strip {
+          flex-direction: column;
+        }
+
+      }
+    </style>
+  </head>
+  <body>
+    <div class="atlas-root">
+      <div class="atlas-header-title">Follow any glowing light and see where it takes you.</div>
+      <div class="atlas-header-sub">
+        Each point on the globe is a place you could wake up tomorrow. Hover to glimpse its name; click to open a
+        living travel story for that corner of the world.
+      </div>
+
+      <div class="atlas-grid">
+        <section class="atlas-map-panel">
+          <div class="atlas-panel-heading">Atlas Map Plane</div>
+          <div id="atlas-map-plane"></div>
+          <div class="atlas-status-strip">
+            <div class="atlas-pill">
+              <div class="atlas-pill-label">GLOWING PATHS</div>
+              <div class="atlas-pill-value" id="atlas-pin-count">Scattered across the globe</div>
+            </div>
+
+            <div class="atlas-pill">
+              <div class="atlas-pill-label">CURRENT SPOT</div>
+              <div class="atlas-pill-value" id="atlas-now-focused">Hover over a light to meet it.</div>
+            </div>
+
+            <div class="atlas-pill">
+              <div class="atlas-pill-label">LAST HOP</div>
+              <div class="atlas-pill-value" id="atlas-debug-label">Waiting for your first leap</div>
+            </div>
+          </div>
+        </section>
+
+        <aside class="atlas-detail-panel is-idle" id="atlas-detail-panel">
+          <div class="atlas-detail-header">
+            <button type="button" id="atlas-back-home">← Cockpit view</button>
+            <div class="atlas-detail-meta-label">Travel Plan &amp; Guides</div>
+            <h2 id="atlas-detail-title">Select a node to generate a plan.</h2>
+            <p id="atlas-detail-meta">When a travel point catches your eye, its full story unfolds here.</p>
+          </div>
+          <div class="atlas-detail-body" id="atlas-detail-body">
+            <p class="atlas-detail-placeholder">Use the cockpit map to choose a travel point and start weaving a plan.</p>
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/three@0.157.0/build/three.min.js"></script>
+    <script src="https://unpkg.com/globe.gl"></script>
+    <script type="module" src="./script.js"></script>
+  </body>
+</html>

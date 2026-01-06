@@ -1,0 +1,161 @@
+{
+  "data": {
+    "destination": {
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "theme": "forest"
+    },
+    "overview": "Costa Rica’s forests range from misty cloud canopies to dense lowland jungle, all packed into a compact, easy-to-explore country. Over a quarter of the land is protected, giving you excellent chances to spot monkeys, sloths, quetzals and hummingbirds along well-maintained trails and hanging bridges. Base yourself in forest hubs like Monteverde, La Fortuna or the Osa Peninsula to mix hiking, wildlife watching and hot springs. Good roads, shuttles and eco-lodges make even remote parks surprisingly accessible. English is widely understood in tourist areas, but Spanish helps. Many visitors can enter visa-free, though entry rules change, so confirm before flying. Expect humid conditions year-round—pack light, quick-dry clothes and embrace getting a bit muddy.",
+    "top_sights": [
+      {
+        "title": "Monteverde Cloud Forest Reserve",
+        "why_go": "Walk through ethereal misty forest draped in moss and orchids, with hanging bridges, abundant hummingbirds and a good chance to spot the resplendent quetzal during the right season.",
+        "best_time": "Dec–Apr for clearer skies; Feb–Apr for quetzals; May–Jul for fewer crowds and very lush forest."
+      },
+      {
+        "title": "Arenal Volcano & La Fortuna Rainforest",
+        "why_go": "Mix lowland rainforest trails, hanging bridges and waterfalls with relaxing volcanic hot springs. Excellent base for canopy tours, night walks and family-friendly wildlife experiences.",
+        "best_time": "Dec–Apr for driest hiking; May–Jul for greener landscapes and better waterfall flow."
+      },
+      {
+        "title": "Corcovado National Park (Osa Peninsula)",
+        "why_go": "One of the most biodiverse places on Earth, with primary rainforest, tapirs, scarlet macaws and, if you’re lucky, big cats. Feels truly wild and remote compared with other parks.",
+        "best_time": "Jan–Apr for more reliable weather; avoid heavy-rain closures typically in Oct–Nov."
+      },
+      {
+        "title": "Tortuguero National Park",
+        "why_go": "Explore flooded forest and canals by boat, spotting monkeys, caimans and toucans. During nesting season, see green sea turtles laying eggs on remote Caribbean beaches.",
+        "best_time": "Feb–Apr for drier weather; Jul–Oct for peak turtle nesting (more rain but special experience)."
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "stops": [
+          {
+            "name": "Early Morning: Hanging Bridges in La Fortuna",
+            "activity": "Start with a guided walk on rainforest hanging bridges (e.g., Mistico Park) to see birds, monkeys and views of Arenal Volcano before heat and crowds build."
+          },
+          {
+            "name": "Late Morning: La Fortuna Waterfall",
+            "activity": "Hike down to the base of La Fortuna Waterfall for a swim in the cool pool surrounded by dense jungle. Allow time for the stair climb back up."
+          },
+          {
+            "name": "Lunch: Local Soda in La Fortuna",
+            "activity": "Refuel with a casado or gallo pinto at a family-run soda in town, then stroll for coffee and supplies."
+          },
+          {
+            "name": "Afternoon: Rainforest Canopy or Chocolate/Coffee Tour",
+            "activity": "Choose a zipline canopy tour through the forest or a cacao/coffee farm visit that includes a walk through agroforestry plots alive with birds and insects."
+          },
+          {
+            "name": "Evening: Night Walk & Hot Springs",
+            "activity": "Join a guided night walk to see frogs, insects and nocturnal mammals, then relax at a hot spring complex before turning in early."
+          }
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights",
+        "stops": [
+          {
+            "name": "Day 1: San José to Monteverde",
+            "activity": "Travel from San José to Monteverde (shuttle or rental car). In the afternoon, visit a cloud forest reserve (e.g., Curi-Cancha or Monteverde) for an easy trail and birdwatching. Optional evening frog or insect night tour."
+          },
+          {
+            "name": "Day 2: Monteverde Cloud Forest & Canopy Adventure",
+            "activity": "Spend the morning hiking in Monteverde Cloud Forest Reserve with a guide to spot quetzals and learn about epiphytes. Afternoon hanging bridges or zipline through the canopy; sunset viewpoint over the Gulf of Nicoya."
+          },
+          {
+            "name": "Day 3: Monteverde to La Fortuna (Arenal)",
+            "activity": "Travel via jeep–boat–jeep or road to La Fortuna. Do an afternoon rainforest walk (Arenal 1968, Arenal Volcano NP, or a private reserve) and finish in natural hot springs. If tight on time, this can be combined into a long 2-day loop."
+          }
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Casado",
+        "where_to_try": "Small sodas (local diners) in La Fortuna, Monteverde and along rural highways; look for busy spots full of locals at lunch."
+      },
+      {
+        "dish": "Gallo Pinto",
+        "where_to_try": "Breakfast at guesthouses and sodas near forest areas; Monteverde’s family-owned lodges often serve excellent homemade versions."
+      },
+      {
+        "dish": "Sopa Negra (black bean soup)",
+        "where_to_try": "Traditional eateries in San José’s Barrio Escalante, mountain towns like San Gerardo de Dota, and rustic roadside restaurants en route to the highlands."
+      },
+      {
+        "dish": "Chorreadas (corn pancakes)",
+        "where_to_try": "Mountain and cloud forest routes, especially between San José and Monteverde; ask for freshly made chorreadas with sour cream at roadside stalls."
+      },
+      {
+        "dish": "Fresh fruit batidos (smoothies)",
+        "where_to_try": "Juice bars, beach towns and almost any soda; choose tropical fruits like guanábana, mango or maracuyá after a hot forest hike."
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Dry Season (Dec–Apr)",
+        "weather": "Generally sunny with lower humidity and less rain, though cloud forests remain cool and misty, especially mornings and evenings.",
+        "pros": "Best trail conditions, easier river crossings, more reliable transport to remote parks, ideal for first-time visitors.",
+        "cons": "Higher prices and occupancy, especially around Christmas, New Year and Easter; some forests feel a bit drier and dustier at lower elevations."
+      },
+      {
+        "season": "Early Green Season (May–Jun)",
+        "weather": "Warm with regular afternoon showers; mornings often clear. Forests turn vibrantly green; waterfalls are fuller.",
+        "pros": "Lusher scenery, fewer crowds than peak dry season, better deals on accommodation and tours.",
+        "cons": "Rain can affect afternoon hikes; some unpaved roads become muddy—4x4 recommended in more remote forest areas."
+      },
+      {
+        "season": "Mid Green Season (Jul–Aug)",
+        "weather": "Tropical showers most days, often with a mid-summer “little summer” (veranillo) bringing brief drier spells on the Pacific side.",
+        "pros": "Great for wildlife, especially in dense forests; families come during school holidays so many activities are running at full capacity.",
+        "cons": "Busy on popular routes despite being rainy; clouds can obscure volcano views and make laundry slow to dry."
+      },
+      {
+        "season": "Rainiest Months (Sep–Nov)",
+        "weather": "Heavy, frequent rain on the Pacific side, especially afternoons and nights; Caribbean side can be drier in Sep–Oct.",
+        "pros": "Deeply green forests, dramatic rivers and waterfalls; good time for fewer visitors in many Pacific forest areas.",
+        "cons": "Some trails and dirt roads may close or be difficult; certain lodges reduce services; Corcovado and remote parks may restrict access in parts of this period."
+      }
+    ],
+    "local_tips": [
+      "Pack quick-dry clothing, a light waterproof jacket, breathable long sleeves, and closed-toe hiking shoes; add gaiters if you plan deep forest hikes.",
+      "A small daypack with dry bags or zip-locks is invaluable for keeping electronics and documents safe from sudden downpours.",
+      "Hiring local guides in reserves like Monteverde, Arenal and Corcovado greatly increases wildlife sightings and supports conservation-focused jobs.",
+      "Many national parks now require or recommend advance online booking via SINAC for specific entry times; Corcovado in particular requires a certified guide and permits reserved well ahead—check current rules before you travel.",
+      "Most visitors from North America, the EU, UK and several other countries receive up to 90 days visa-free, but rules change: confirm entry requirements and proof-of-onward-travel regulations before flying.",
+      "If arriving from certain South American or African countries, you may need proof of yellow fever vaccination; check health requirements in advance."
+    ],
+    "safety": [
+      "Petty theft is the main risk: never leave valuables in parked cars (especially at trailheads), use hotel safes and keep bags in sight on buses and shuttles.",
+      "Trails can be slippery, particularly in cloud and rainforests—wear proper footwear, avoid flip-flops on hikes and turn back if rivers rise quickly.",
+      "Do not approach or feed wildlife; some animals bite and others may carry disease. Keep a respectful distance and follow guide instructions.",
+      "Only swim in designated safe areas; strong river currents, hidden rocks and flash floods can be dangerous, especially in the rainy season.",
+      "Roads to forest destinations can be steep and rough. If driving, avoid night driving where possible and consider a 4x4 for Monteverde, Osa and other remote areas."
+    ],
+    "budget": {
+      "shoestring": "USD 40–70 per person per day: dorm beds or basic cabinas, local buses, simple sodas, a few guided walks or one paid activity every couple of days.",
+      "midrange": "USD 90–160 per person per day: comfortable eco-lodges or guesthouses, shared shuttles or occasional car rental, several guided tours and park entries.",
+      "luxury": "USD 220+ per person per day: high-end ecolodges in forest reserves, private drivers or flights to remote areas, private guides and premium hot springs or spa experiences.",
+      "currency": "Costa Rican colón (CRC), though US dollars are widely accepted in tourist areas; carry smaller CRC bills for buses, sodas and rural shops."
+    },
+    "transport": {
+      "from_airport": "Most international visitors arrive at San José (SJO) or Liberia (LIR). For Monteverde and La Fortuna, pre-booked shuttles are the simplest option; public buses are cheaper but slower and may require changes in San José or regional hubs. Rental cars offer flexibility but book 4x4 for rougher routes. To reach Corcovado, travel via Puerto Jiménez or Drake Bay by domestic flight, bus plus boat, or shuttle.",
+      "getting_around": "Public buses are inexpensive and reasonably reliable on main routes. Shared tourist shuttles connect major forest towns and save time. Renting a car gives access to trailheads and smaller reserves—download offline maps and fuel up before remote stretches. Taxis and ride-hailing are common in cities but limited in rural forest areas.",
+      "passes": "There is no single national park pass; you pay entry per park or reserve, often with separate fees for guided tours. Some busy parks require online tickets via SINAC for specific dates and times. Discounted combo tickets are sometimes available for private reserves (e.g., hanging bridges plus hot springs), but bus or shuttle passes are uncommon."
+    },
+    "hidden_gems": [
+      {
+        "title": "San Gerardo de Dota Cloud Forest",
+        "why_go": "A quiet highland valley with pristine cloud forest trails, excellent quetzal spotting and far fewer visitors than Monteverde. Cool temperatures and small lodges make it ideal for birders and hikers."
+      },
+      {
+        "title": "Bajos del Toro & Surrounding Forests",
+        "why_go": "A lesser-known region of deep canyons, turquoise waterfalls and mossy cloud forest. Short but steep hikes lead to dramatic viewpoints, and you’ll often share the trail with only a few other visitors."
+      }
+    ]
+  },
+  "timestamp": 1763102498904
+}

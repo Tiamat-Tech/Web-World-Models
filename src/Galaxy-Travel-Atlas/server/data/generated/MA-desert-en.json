@@ -1,0 +1,170 @@
+{
+  "data": {
+    "destination": {
+      "name": "Morocco",
+      "iso2": "MA",
+      "theme": "desert"
+    },
+    "overview": "Morocco’s desert belt stretches from Ouarzazate to the dunes near the Algerian border, with kasbahs, oases and vast star-filled skies. Base yourself in Merzouga for the classic orange dunes of Erg Chebbi, or head to remote Erg Chigaga near M’Hamid for fewer crowds. Camel treks and 4x4 expeditions weave between palm valleys, Berber villages and movie locations. Desert nights can be surprisingly cold, so pack layers. Many travelers connect via Marrakech or Fes and join small-group tours for safety and comfort.",
+    "top_sights": [
+      {
+        "title": "Erg Chebbi (Merzouga)",
+        "why_go": "Iconic Saharan sand sea with towering orange dunes, easy access, and many desert camps offering camel treks, sandboarding and sunrise/sunset viewpoints.",
+        "best_time": "Mid-September to May for pleasant temperatures; avoid midday in July–August."
+      },
+      {
+        "title": "Erg Chigaga (near M’Hamid)",
+        "why_go": "More remote and wilder than Erg Chebbi, reached by 4x4 from M’Hamid; fewer camps, darker skies and a stronger feeling of isolation.",
+        "best_time": "October to April; winter nights are cold but skies are clearest."
+      },
+      {
+        "title": "Draa Valley & Zagora",
+        "why_go": "Ribbon of palm oases, crumbling kasbahs and earth-built villages leading toward the Sahara; good for gentle walks, cycling and short desert excursions.",
+        "best_time": "October–November and March–April, when it’s warm but not scorching."
+      },
+      {
+        "title": "Todra & Dades Gorges",
+        "why_go": "Dramatic canyons and rock formations that form the scenic approach to the desert; popular for short hikes, viewpoints and rock climbing.",
+        "best_time": "Spring and autumn; mornings and late afternoons year-round."
+      },
+      {
+        "title": "Ouarzazate & Aït Benhaddou",
+        "why_go": "Gateway city to the desert with film studios and the UNESCO-listed ksar of Aït Benhaddou, often combined with Sahara trips from Marrakech.",
+        "best_time": "September–November and March–May; winters are sunny but chilly at night."
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "stops": [
+          {
+            "title": "Sunrise over Erg Chebbi",
+            "description": "Start before dawn in Merzouga. Ride by 4x4 or camel to a high dune and watch the sun light up the sand ridges. Return to your guesthouse or camp for a hearty Moroccan breakfast.",
+            "timing": "05:00–09:00 (season-dependent)"
+          },
+          {
+            "title": "Merzouga Village & Khamlia Gnawa Music",
+            "description": "Explore Merzouga’s lanes, then visit nearby Khamlia to hear traditional Gnawa music and learn about desert culture over tea.",
+            "timing": "10:00–13:00"
+          },
+          {
+            "title": "Fossil Workshops & Desert Lake (seasonal)",
+            "description": "Drive towards Erfoud to browse fossil and mineral shops, or, if there has been recent rain, visit the temporary Dayet Srij salt lake to spot migratory birds and flamingos.",
+            "timing": "14:30–16:30"
+          },
+          {
+            "title": "Sunset Camel Trek & Desert Camp",
+            "description": "Mount camels for a slow ride into the dunes. Enjoy sunset from a ridge, then continue to a Berber-style camp for dinner, drumming around the fire and exceptional stargazing.",
+            "timing": "17:00–22:00, overnight in camp"
+          }
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights",
+        "stops": [
+          {
+            "title": "Day 1: Marrakech to Ouarzazate via Aït Benhaddou",
+            "description": "Cross the High Atlas via the Tizi n’Tichka Pass, stopping at viewpoints and argan oil cooperatives. Tour the fortified ksar of Aït Benhaddou, then continue to Ouarzazate for film studios or the Taourirt Kasbah.",
+            "timing": "08:00–18:00, overnight in Ouarzazate or Skoura"
+          },
+          {
+            "title": "Day 2: Ouarzazate to Merzouga via Dades & Todra Gorges",
+            "description": "Follow the Road of 1000 Kasbahs through Skoura and the Rose Valley to Dades Gorge. Continue via Tinghir and Todra Gorge for short walks among the cliffs. Arrive in Merzouga by late afternoon for a camel trek and night in a desert camp.",
+            "timing": "08:00–20:00, overnight in desert camp"
+          },
+          {
+            "title": "Day 3: Desert Sunrise and Return",
+            "description": "Wake for sunrise over Erg Chebbi, then ride back to the edge of the dunes for breakfast and a shower. Either return to Marrakech via the same route, continue to Fes via Midelt, or spend an extra night in a kasbah guesthouse to rest.",
+            "timing": "05:00–18:00, depending on onward route"
+          }
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Mechoui (slow-roasted lamb)",
+        "where_to_try": "Traditional mechoui stalls around Jemaa el-Fna in Marrakech before heading to the desert, or pre-booked at desert camps in Merzouga and Erg Chigaga for special dinners."
+      },
+      {
+        "dish": "Berber Tagine",
+        "where_to_try": "Roadside auberges between Ouarzazate and Merzouga, family-run guesthouses in the Draa Valley, and camp kitchens that cook tagines slowly over charcoal."
+      },
+      {
+        "dish": "Madfouna (Berber ‘pizza’ from Rissani)",
+        "where_to_try": "Bakeries and simple restaurants in Rissani near Merzouga; some desert camps can arrange a tasting if requested in advance."
+      },
+      {
+        "dish": "Harira & Fresh Flatbreads",
+        "where_to_try": "Local snack bars in Ouarzazate, Zagora and Erfoud, particularly at sunset during Ramadan or cooler winter evenings."
+      },
+      {
+        "dish": "Mint Tea & Desert Dates",
+        "where_to_try": "Date stalls in the Tafilalt region around Erfoud and Rissani, and at virtually every guesthouse or camp welcome ceremony in the desert."
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Spring (March–May)",
+        "weather": "Warm days (20–30°C) and cool nights; occasional rain in the Atlas, mostly dry in desert regions.",
+        "pros": "Most comfortable time for desert trips; wildflowers in valleys; good road conditions and clear skies for stargazing.",
+        "cons": "Popular with tour groups; prices and occupancy higher around Easter; potential for dusty winds in April."
+      },
+      {
+        "season": "Summer (June–August)",
+        "weather": "Very hot in the desert (often 38–45°C+), cooler in the mountains and Atlantic coast; strong sun.",
+        "pros": "Fewer visitors in the deep desert; long daylight hours; good deals on some camps that remain open.",
+        "cons": "Midday heat can be extreme and dangerous; activities limited to early morning and evening; some operators pause multi-day treks."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "weather": "Hot to warm days, cooling through the season; chilly nights by November; mostly dry with clear air.",
+        "pros": "Another sweet spot for comfort; great light for photography; dates harvest season adds interest in oasis towns.",
+        "cons": "Early September can still be very hot; increasing visitor numbers and higher demand for top camps."
+      },
+      {
+        "season": "Winter (December–February)",
+        "weather": "Mild to warm days in the desert, very cold nights (sometimes near freezing); snow in the Atlas may affect passes.",
+        "pros": "Crystal-clear night skies; quieter than peak seasons; cozy fires in kasbahs and camps.",
+        "cons": "Shorter days; need serious layers for nights; occasional road closures over mountain passes after heavy snow or rain."
+      }
+    ],
+    "local_tips": [
+      "Plan at least one night actually in the dunes (desert camp) and one in a nearby village or kasbah guesthouse for a fuller experience.",
+      "Pack a scarf or buff to protect against sun and sand, plus sunglasses and high-SPF sunscreen; the reflected light off dunes is intense.",
+      "Temperatures drop sharply after sunset, even in summer—bring a fleece or light down jacket and warm socks for camp nights.",
+      "Carry some cash (MAD) for tips, small snacks and local crafts; ATMs are limited or absent in Merzouga, M’Hamid and smaller oases.",
+      "Many nationalities (including most EU, UK, US, Canadian and Australian passport holders) can enter visa-free for up to 90 days, but rules change—confirm with a Moroccan consulate and ensure your passport has at least 3–6 months’ validity.",
+      "If self-driving, avoid driving in the dark: animals, pedestrians and unlit vehicles are common on desert roads, and mountain passes can be challenging."
+    ],
+    "safety": [
+      "Desert heat and dehydration are the main risks: drink water frequently, even if you don’t feel thirsty, and avoid strenuous hikes at midday.",
+      "Choose licensed guides and reputable tour operators for camel treks and 4x4 excursions; they know safe routes and weather patterns.",
+      "Sandstorms can develop quickly—follow your guide’s instructions, use a scarf and goggles if needed, and wait them out in shelter.",
+      "Keep valuables minimal and secure in guesthouses or camp; petty theft is relatively uncommon in remote areas but possible in transit hubs.",
+      "Road safety standards vary. If hiring a driver, ask about seatbelts and avoid overloaded grands taxis for long desert stretches.",
+      "Respect cultural norms in rural and oasis communities: dress modestly, ask before photographing people and avoid public displays of affection."
+    ],
+    "budget": {
+      "shoestring": "Approx. 35–60 USD (350–600 MAD) per day: shared minibus tours from Marrakech, basic guesthouses, simple desert camp with shared facilities, local eateries and minimal activities.",
+      "midrange": "Approx. 80–150 USD (800–1500 MAD) per day: comfortable riads or kasbah lodges, quality desert camp with private tent and hot showers, guided excursions and some private transfers.",
+      "luxury": "Approx. 220+ USD (2200+ MAD) per day: boutique lodges and premium desert camps, private 4x4 transfers, customized excursions, gourmet meals and possibly sunrise hot-air ballooning near Ouarzazate.",
+      "currency": "Moroccan Dirham (MAD); it is a closed currency, so withdraw or exchange within Morocco. Cards are accepted at many hotels but less so in small towns."
+    },
+    "transport": {
+      "from_airport": "Main gateways are Marrakech (RAK), Casablanca (CMN) and Fes (FEZ). To reach the desert, travel by domestic flight to Errachidia or Ouarzazate when available, or use CTM/Supratours buses or private transfers to hubs like Merzouga, Zagora or M’Hamid. Many visitors book multi-day Sahara tours departing from Marrakech or Fes, which include transport.",
+      "getting_around": "In desert regions, travel is mostly by 4x4, organized minibus tours, grands taxis and, for short distances in dunes, by camel. Self-driving offers flexibility but requires confidence on mountain and desert roads. Within towns, most places are walkable; taxis are inexpensive for longer hops.",
+      "passes": "There are no specific ‘desert passes’. Buy point-to-point tickets for CTM/Supratours buses and ONCF trains if linking cities. Tours often bundle all transport. For maximum flexibility in desert areas, consider hiring a private driver with 4x4 for multi-day routes."
+    },
+    "hidden_gems": [
+      {
+        "title": "M’Hamid el Ghizlane",
+        "why_go": "A quiet end-of-the-road oasis village that feels far from mass tourism, ideal for launching small, low-key expeditions into Erg Chigaga with locally run camps."
+      },
+      {
+        "title": "Skoura Palm Grove",
+        "why_go": "Lush oasis of date palms and mud-brick kasbahs east of Ouarzazate, perfect for cycling and walking among fields and irrigation canals before heading deeper into the desert."
+      }
+    ]
+  },
+  "timestamp": 1763102499145
+}

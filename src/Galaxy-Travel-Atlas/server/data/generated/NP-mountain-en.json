@@ -1,0 +1,164 @@
+{
+  "data": {
+    "destination": {
+      "name": "Nepal",
+      "iso2": "NP",
+      "theme": "mountain"
+    },
+    "overview": "Nepal is the world’s classic Himalayan playground, home to Everest and seven other 8,000m peaks. Treks in the Everest, Annapurna, and Langtang regions combine huge mountain scenery with Sherpa, Gurung, and Tamang culture and simple teahouse comforts. Kathmandu and Pokhara act as friendly bases with plenty of gear shops and flight or jeep links to the hills. Many nationalities can obtain a visa on arrival, but check current rules. Most treks now require permits and a licensed guide, especially in national parks and restricted border regions.",
+    "top_sights": [
+      {
+        "title": "Everest Region (Sagarmatha National Park)",
+        "why_go": "See Everest and iconic peaks like Ama Dablam, stay in Sherpa villages, and hike to viewpoints such as Kala Patthar and Gokyo Ri. Classic teahouse trekking with big-mountain scenery.",
+        "best_time": "Oct–Nov and Mar–May for clear views and stable weather; winter is quieter but very cold, especially above 4,000m."
+      },
+      {
+        "title": "Annapurna Region (ABC & Annapurna Circuit)",
+        "why_go": "Well-developed trails, varied landscapes from subtropical valleys to high passes, and relatively easy logistics. Annapurna Base Camp offers close-up amphitheater views of towering peaks.",
+        "best_time": "Oct–Nov for crisp skies; Mar–Apr for rhododendron blooms; Dec–Feb possible at lower elevations with cold nights."
+      },
+      {
+        "title": "Langtang & Helambu",
+        "why_go": "A shorter access trek from Kathmandu with fewer crowds, glacier views, and Tamang culture. Ideal for those wanting Himalayan scenery without domestic flights.",
+        "best_time": "Oct–Nov and Mar–May; avoid peak monsoon due to landslide risk on road sections."
+      },
+      {
+        "title": "Pokhara & Phewa Lake",
+        "why_go": "Lakeside town framed by the Annapurna and Machhapuchhre (Fishtail) peaks. Perfect for short day hikes, paragliding with mountain views, and unwinding pre- or post-trek.",
+        "best_time": "Oct–Apr for clear morning mountain views; monsoon (Jun–Sep) is lush but often cloudy."
+      },
+      {
+        "title": "Nagarkot & Dhulikhel (Kathmandu Valley Ridges)",
+        "why_go": "Easy-access ridge walks and sunrise panoramas of the Himalaya with minimal travel from Kathmandu, good for those short on time.",
+        "best_time": "Oct–Dec and Feb–Apr for best visibility; winter mornings can be foggy at times."
+      }
+    ],
+    "itineraries": [
+      {
+        "title": "Perfect 24 Hours",
+        "stops": [
+          {
+            "name": "Kathmandu Sunrise Viewpoint",
+            "time": "05:00–09:00",
+            "description": "Climb to Swayambhunath (Monkey Temple) for first light over Kathmandu and, on clear days, distant Himalayan ridges. If you can start earlier and pre-book a taxi, head to Nagarkot instead for a wider panorama."
+          },
+          {
+            "name": "Pashupatinath & Boudhanath",
+            "time": "09:30–13:00",
+            "description": "Visit Pashupatinath Temple on the Bagmati River, then continue to Boudhanath Stupa. Both are key spiritual sites, with rooftop cafés around Boudha for a relaxed lunch."
+          },
+          {
+            "name": "Thamel Exploration & Gear Check",
+            "time": "14:00–17:00",
+            "description": "Wander Thamel’s lanes to buy or rent trekking gear, stock up on snacks and water-treatment options, and confirm permits and guides for any planned mountain trips."
+          },
+          {
+            "name": "Rooftop Dinner with Views",
+            "time": "18:00–21:00",
+            "description": "Finish with dinner on a rooftop restaurant in Thamel or around Boudha. On clear evenings, you may glimpse snow peaks beyond the valley rim at sunset."
+          }
+        ]
+      },
+      {
+        "title": "2–3 Day Highlights",
+        "stops": [
+          {
+            "name": "Day 1 – Kathmandu to Pokhara & Lakeside",
+            "time": "Full day",
+            "description": "Fly (25–30 minutes) or take a tourist bus (6–8 hours) to Pokhara, enjoying mountain views when skies are clear. Walk along Phewa Lake, rent a boat, and hike or drive up to the World Peace Pagoda for sunset over the Annapurnas."
+          },
+          {
+            "name": "Day 2 – Short Trek: Australian Camp or Dhampus",
+            "time": "Full day",
+            "description": "Drive to Kande or Phedi and hike 2–4 hours to Australian Camp or Dhampus. Stay in a teahouse with sunrise views of Machhapuchhre and the Annapurna range—a gentle introduction to teahouse trekking without long days."
+          },
+          {
+            "name": "Day 3 – Return to Pokhara & Fly Back",
+            "time": "Half–full day",
+            "description": "Descend to the roadhead and return to Pokhara. If time allows, visit the International Mountain Museum or try paragliding, then fly or take a tourist bus back to Kathmandu."
+          }
+        ]
+      }
+    ],
+    "food_highlights": [
+      {
+        "dish": "Dal Bhat (rice with lentils, vegetables, pickles)",
+        "where_to_try": "Teahouses on all major trekking routes (Everest, Annapurna, Langtang) and local eateries in Kathmandu and Pokhara; it’s the staple meal for trekkers and guides."
+      },
+      {
+        "dish": "Momos (steamed or fried dumplings)",
+        "where_to_try": "Small momo shops around Thamel, Patan, and Pokhara Lakeside; for mountain views with your plate, pick a rooftop café in Pokhara."
+      },
+      {
+        "dish": "Thakali Thali Set",
+        "where_to_try": "Thakali kitchens in Kathmandu (e.g., Lazimpat, Thamel side streets) and along the Annapurna Circuit where the cuisine originates."
+      },
+      {
+        "dish": "Yak Cheese & Yak Butter Tea",
+        "where_to_try": "High-altitude teahouses in the Everest, Langtang, and upper Annapurna regions, particularly in villages like Khumjung and Kyanjin Gompa."
+      }
+    ],
+    "seasonality": [
+      {
+        "season": "Autumn (Oct–Nov)",
+        "weather": "Stable, dry, with clear skies and comfortable days; chilly to cold nights at altitude.",
+        "pros": "Best visibility for mountain views; ideal for most treks; lively teahouse atmosphere; major festivals like Dashain and Tihar.",
+        "cons": "Busiest trekking season; popular routes and flights can book out; prices for flights and some lodges may be higher."
+      },
+      {
+        "season": "Spring (Mar–May)",
+        "weather": "Mild to warm at lower elevations, cool higher up; some afternoon haze; pre-monsoon build-up of clouds.",
+        "pros": "Rhododendrons and wildflowers in bloom; good trekking conditions; slightly fewer crowds than peak autumn on some routes.",
+        "cons": "Views can be hazier than autumn; occasional storms; increasing heat and humidity towards May."
+      },
+      {
+        "season": "Monsoon (Jun–Sep)",
+        "weather": "Warm, humid, frequent rain, especially afternoons and nights; cloudier mountains.",
+        "pros": "Lush green hillsides, fewer trekkers, quieter trails; some rain-shadow areas (Mustang, Dolpo) are at their best.",
+        "cons": "Leeches on lower trails; higher landslide risk on roads and some paths; frequent flight delays; limited views on many routes."
+      },
+      {
+        "season": "Winter (Dec–Feb)",
+        "weather": "Cold to very cold at altitude; generally dry with clear skies; pleasant days in Kathmandu and Pokhara.",
+        "pros": "Crisp views; quieter mountains; lower-altitude treks comfortable and peaceful.",
+        "cons": "Snow and ice can close high passes (e.g., Thorong La, Cho La); very cold nights above 3,000m; some high lodges may close."
+      }
+    ],
+    "local_tips": [
+      "Most popular trekking regions now require you to register through an agency and trek with a licensed guide; truly solo trekking is restricted on many routes since 2023.",
+      "Obtain required permits before setting off: TIMS plus national park or conservation permits (e.g., Sagarmatha, Annapurna). Restricted areas like Upper Mustang and Manaslu need special permits and a registered guide.",
+      "Altitude sickness is a serious risk above 2,500–3,000m. Ascend slowly, schedule rest days, stay hydrated, and be ready to turn back if symptoms worsen.",
+      "Cash is essential in the mountains. ATMs are unreliable or absent on most trails; withdraw enough Nepalese rupees in Kathmandu or Pokhara.",
+      "Dress modestly in villages and religious sites; cover shoulders and knees, and walk clockwise around stupas and mani walls in keeping with local custom."
+    ],
+    "safety": [
+      "Domestic mountain flights are weather-dependent and have a mixed safety record. Use reputable airlines, travel in the morning when conditions are calmer, and avoid tight connections.",
+      "Road conditions outside major cities can be poor, with frequent traffic accidents. Tourist buses or pre-booked jeeps are generally safer than overcrowded local buses.",
+      "Only drink boiled, filtered, or treated water. In the mountains, use a filter bottle or purification tablets to reduce the need for single-use plastic bottles.",
+      "Even if you’re experienced, trekking with a local guide or porter improves safety, navigation, and emergency support, especially on remote or off-season routes.",
+      "Keep digital and paper copies of your passport, visa, insurance, and permits. Police and park checkpoints on trekking routes frequently check documents."
+    ],
+    "budget": {
+      "shoestring": "Approx. NPR 3,000–4,500 per day (US$25–35) if sharing basic rooms, eating dal bhat, and using buses. Trekking costs rise when you add permits, guide/porter fees, and gear rental.",
+      "midrange": "Approx. NPR 6,000–10,000 per day (US$50–80) with better guesthouses, a mix of local and international food, some private transport, and guided trekking on standard routes.",
+      "luxury": "Approx. NPR 15,000+ per day (US$120+) for boutique hotels, higher-end lodges, private guides and porters, and frequent domestic flights or helicopter transfers.",
+      "currency": "Nepalese Rupee (NPR); cash is preferred outside main cities, and foreign cards may not work reliably in rural areas."
+    },
+    "transport": {
+      "from_airport": "Tribhuvan International Airport (Kathmandu) is the main international gateway. Prepaid taxis and metered taxis connect to central Kathmandu in 20–40 minutes depending on traffic. Many hotels can arrange airport pick-ups. Domestic flights from Kathmandu link to Pokhara, Lukla, Nepalgunj, and other trekking gateways, but are often delayed or cancelled in bad weather.",
+      "getting_around": "In cities, use taxis or local ride-hailing apps where available, plus walking for central areas. Tourist buses and minibuses connect Kathmandu, Pokhara, Chitwan, and Lumbini. For trekking trailheads, pre-booked jeeps are usually faster and safer than local buses. Domestic flights save time for mountain regions like Lukla but always allow buffer days.",
+      "passes": "There is no nationwide transport pass. Instead, budget for trekking permits: TIMS cards, national park or conservation area permits (e.g., Sagarmatha, Annapurna), and special restricted-area permits where applicable. Keep multiple copies and carry them for checkpoints; some municipalities may charge additional local entry fees."
+    },
+    "hidden_gems": [
+      {
+        "title": "Khopra Danda (Annapurna Region)",
+        "why_go": "A quieter ridge trek with superb dawn and dusk views of Dhaulagiri and Annapurna South. Less crowded than Poon Hill yet similarly accessible from Pokhara, with community lodges that directly support local villages."
+      },
+      {
+        "title": "Pikey Peak (Lower Everest Region)",
+        "why_go": "Reachable mainly by road from Kathmandu, this lesser-known trek offers wide-angle views of Everest and surrounding ranges without a flight to Lukla, plus intimate Sherpa and Rai village experiences."
+      }
+    ]
+  },
+  "timestamp": 1763102494517
+}
